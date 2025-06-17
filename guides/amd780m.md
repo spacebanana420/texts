@@ -1,6 +1,6 @@
 # Fixing AMD 780M/7XXM iGPU freezes on Linux
 
-As of the time I'm writing this, the Linux driver for AMD GPUs has a bug which affects the 780M iGPU and other iGPUs of the same series. At seemingly random moments and intervals, your whole graphics can crash, resulting in a complete freeze of your display from which to recover from you have to force shutdown the system. Your system and the rest of the hardware is still working, but the graphics remain unresponsive.
+As of the time I'm writing this, the Linux driver for AMD GPUs has a bug which affects the 780M iGPU and other iGPUs of the same series. At seemingly random moments and intervals, your whole graphics can crash, resulting in a complete freeze of your display which lasts forever, requiring a force shutdown of your system. Your system and the rest of the hardware is still working, but the graphics remain unresponsive.
 
 This is a bug currently being worked on in the AMD drivers, see here: https://gitlab.freedesktop.org/drm/amd/-/issues/4141
 
