@@ -49,7 +49,7 @@ Strangely enough, some GTK applications apply the GTK theme on the title bar, wh
 
 # Wayland-specific issues
 
-Like mentioned multiple times above, in Wayland fonts are blurrier at least when you use fractional scaling, and it can be very annoying to use a Wayland desktop for this reason alone. Not only fonts are blurrier, but it seems that taking screenshots in Wayland also results in blurrier images (tested with Grim). This is not acceptable for me.
+Like mentioned multiple times above, in Wayland fonts are blurrier at least when you use fractional scaling, and it can be very annoying to use a Wayland desktop for this reason alone. At first it also seemed that taking screenshots in Wayland also results in blurrier images (tested with Grim) but when viewing the same images on x11 they seem to be just fine, so it's probably a problem with GIMP and ristretto on Wayland.
 
 Gaming is abysmally bad on Wayland with fractional scaling. Whether it's a Linux-native game or a Windows game running on WINE, it will use Xwayland. This x11-Wayland interoperability does not properly support fractional scaling, and so everything is blurry and upscaled to your screen, essentially rendered at a lower resolution. Some games don't even start with Xwayland.
 
@@ -80,7 +80,6 @@ Wayland has made significant progress over these last years, but it's not ready 
 ## Wayland cons
 * Unless if using KDE or Gnome, Wayland requires a lot of troubleshooting, fixing, experimentation and software replacement
 * Fractional scaling isn't perfect, fonts and sometimes images and video output are notably blurrier than on x11 desktops, ranging from slightly uncomfortable to emulating the sensation of having bad eyesight
-* Screenshots taken on Wayland are blurry when using fractional scaling
 * Xwayland is horrible when you use fractional scaling, making gaming absolutely not feasible
 * Applications like GIMP still have annoying bugs
 * Lower availability of window managers and desktop environment software (panels, background software, etc). This is especially true for stacking window managers since all the hype is on tiling
