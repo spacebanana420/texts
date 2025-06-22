@@ -8,7 +8,7 @@ I tried 3 different Wayland environments: Hyprland, Wayfire and Labwc. In all of
 
 # Hyprland + Xfce
 
-Hyprland was the first compositor I used. I was very attracted to the idea of using Hyprland because of its wiki as well as Vaxry's effort to making Wayland.
+Hyprland was the first compositor I used. I was very attracted to the idea of using Hyprland because of its wiki as well as Vaxry's effort to making Wayland better.
 
 Hyperland works great and is highly configurable, but it's the desktop that interoperates the least with Xfce components sadly. On start, I launch xfce-session which as consequence launches the whole of Xfce except for Xfwm, including not only the panel and wallpaper but also display settings, Dbus configurations (for leaving session) and detection of other disk devices on Thunar. The alternative would be to independently launch xfce4-panel, xfdesktop and a script I made to run pipewire on non-systemd distros.
 
