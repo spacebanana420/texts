@@ -24,6 +24,8 @@ Labwc is a minimal compositor inspired by Openbox. I decided to try out this com
 
 Starting Xfce Wayland session with Labwc makes it so the keyboard layout is always reset to default (US), and so it's better to run Labwc directly first and add Xfce components to the autostart file.
 
+The cursor theme I use only partially works on Labwc. For example when adjusting a slider, the cursor disappears.
+
 Just like in Hyprland, you need to run xfce-session so that Xfce is integrated properly, but if that's not a concern you have then you can run the components manually. Launching my pipewire script works unlike on Hyprland, but Xfdesktop does not work at all, leaving the background as a black screen. Other wallpaper tools like wpaperd work, but they will not work in autostart if xfdesktop or xfce4-session are also in autostart.
 
 Fonts are slightly blurrier than in Hyprland as well as a few images and MPV's output when in windowed mode. The text on window title bars can become notably blurrier than the rest.
