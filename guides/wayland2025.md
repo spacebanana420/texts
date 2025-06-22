@@ -16,8 +16,6 @@ Xfdesktop provides wallpaper functionality but sometimes breaks keyboard and mou
 
 Xfce panel's workspaces menu does not detect Hyprland's workspaces.
 
-Fonts in Hyprland are a bit blurrier than compared to x11 but they seem to be the sharpest of the 3 compositors I used.
-
 # Labwc + Xfce
 
 Labwc is a minimal compositor inspired by Openbox. I decided to try out this compositor because it's the default choice for experimental Wayland Xfce and it's focus on correctness is attractive.
@@ -27,8 +25,6 @@ Starting Xfce Wayland session with Labwc makes it so the keyboard layout is alwa
 The cursor theme I use only partially works on Labwc. For example when adjusting a slider, the cursor disappears.
 
 Just like in Hyprland, you need to run xfce-session so that Xfce is integrated properly, but if that's not a concern you have then you can run the components manually. Launching my pipewire script works unlike on Hyprland, but Xfdesktop does not work at all, leaving the background as a black screen. Other wallpaper tools like wpaperd work, but they will not work in autostart if xfdesktop or xfce4-session are also in autostart.
-
-Fonts are slightly blurrier than in Hyprland as well as a few images and MPV's output when in windowed mode. The text on window title bars can become notably blurrier than the rest.
 
 Unlike Hyprland and Wayfire, Labwc seems to have no way to configure your display's settings, instead you are supposed to run a wlr-randr command from the autostart file. If xfce4-session is executed, Labwc inherits Xfce's display settings however.
 
@@ -43,13 +39,13 @@ Wayfire is a very quirky compositor because of all the animations and plugins it
 
 Wayfire works the best with Xfce components compared to the other compositors I tried and the experience overall is pleasant when it comes to integrating all these components together.
 
-Fonts, images, MPV output, etc are slightly blurrier than Labwc and Hyprland and it does feel as if I suddenly had vision loss. It's unpleasant and makes me require that I use a higher display scale (1.7x) rather than the 1.6x I used in Hyprland. The moment I go back to x11 everything is suddenly notably sharper and that's a shame really.
-
 Configuration is very good and decently extensive, I took a liking to merely setting up Wayfire.
 
 Strangely enough, some GTK applications apply the GTK theme on the title bar, while other applications use Wayfire's theme.
 
 # Wayland-specific issues
+
+Fonts, images, MPV output, etc are blurrier than x11. How blurrier they are varies from slight to feeling as if I suddenly had vision loss.
 
 Like mentioned multiple times above, in Wayland fonts are blurrier at least when you use fractional scaling, and it can be very annoying to use a Wayland desktop for this reason alone. At first it also seemed that taking screenshots in Wayland also results in blurrier images (tested with Grim) but when viewing the same images on x11 they seem to be just fine, so it's probably a problem with GIMP and ristretto on Wayland.
 
@@ -81,7 +77,7 @@ Wayland has made significant progress over these last years, but it's not ready 
 
 ## Wayland cons
 * Unless if using KDE or Gnome, Wayland requires a lot of troubleshooting, fixing, experimentation and software replacement
-* Fractional scaling isn't perfect, fonts and sometimes images and video output are notably blurrier than on x11 desktops, ranging from slightly uncomfortable to emulating the sensation of having bad eyesight
+* Fractional scaling isn't perfect, fonts and sometimes images and video output are notably blurrier than on x11 desktops.
 * Xwayland is horrible when you use fractional scaling, making gaming absolutely not feasible
 * Applications like GIMP still have annoying bugs
 * Lower availability of window managers and desktop environment software (panels, background software, etc). This is especially true for stacking window managers since all the hype is on tiling
