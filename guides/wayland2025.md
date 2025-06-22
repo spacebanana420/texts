@@ -79,7 +79,7 @@ Wayland has made significant progress over these last years, but it's not ready 
 
 ## Wayland cons
 * Unless if using KDE or Gnome, Wayland requires a lot of troubleshooting, fixing, experimentation and software replacement
-* Fractional scaling isn't perfect, fonts and sometimes images and video output are notably blurrier than on x11 desktops, ranging from slightly discomfortable to emulating the sensation of having bad eyesight
+* Fractional scaling isn't perfect, fonts and sometimes images and video output are notably blurrier than on x11 desktops, ranging from slightly uncomfortable to emulating the sensation of having bad eyesight
 * Screenshots taken on Wayland are blurry when using fractional scaling
 * Xwayland is horrible when you use fractional scaling, making gaming absolutely not feasible
 * Applications like GIMP still have annoying bugs
