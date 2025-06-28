@@ -35,7 +35,7 @@ Xfce's workspaces menu somehow autodetects and interacts with Labwc's own worksp
 
 # Wayfire + Xfce
 
-Wayfire is a very quirky compositor because of all the animations and plugins it has. The default configuration has many things I don't like such as wobbly windows, but it doesn't take long to disable them.
+Wayfire is a very quirky compositor because of all the animations and plugins it has. The default configuration has many things I don't like such as wobbly windows, but it doesn't take long to disable them. After tinkering the compositor to my liking it's great, though it does seem to use more CPU than Labwc slightly.
 
 Wayfire works the best with Xfce components compared to the other compositors I tried and the experience overall is pleasant when it comes to integrating all these components together.
 
@@ -43,19 +43,21 @@ Configuration is very good and decently extensive, I took a liking to merely set
 
 Strangely enough, some GTK applications apply the GTK theme on the title bar, while other applications use Wayfire's theme.
 
+Wayfire, unlike Labwc and Hyprland, does not have a setting to enable screen tearing for fullscreen applications or programs in other circumstances. Screen tearing has its usefulness for gaming, primarily low input delay.
+
 # Wayland-specific issues
 
 Fonts, images, MPV output, etc are blurrier than x11. How blurrier they are varies from slight to feeling as if I suddenly had vision loss.
 
-Like mentioned multiple times above, in Wayland fonts are blurrier at least when you use fractional scaling, and it can be very annoying to use a Wayland desktop for this reason alone. At first it also seemed that taking screenshots in Wayland also results in blurrier images (tested with Grim) but when viewing the same images on x11 they seem to be just fine, so it's probably a problem with GIMP and ristretto on Wayland.
+In Wayland fonts are blurrier when you use fractional scaling as well as images that are scaled up or scaled down, and it can be very annoying to use a Wayland desktop for this reason alone. [Thankfully a fix is being worked on and so in the near future this should not be a problem.](https://gitlab.freedesktop.org/wlroots/wlroots/-/issues/3991)
 
-Gaming is abysmally bad on Wayland with fractional scaling. Whether it's a Linux-native game or a Windows game running on WINE, it will use Xwayland. This x11-Wayland interoperability does not properly support fractional scaling, and so everything is blurry and upscaled to your screen, essentially rendered at a lower resolution. Some games don't even start with Xwayland.
+Gaming is really bad on Wayland with fractional scaling because of Xwayland. Whether it's a Linux-native game or a Windows game running on WINE, it will use Xwayland. This x11-Wayland interoperability does not properly support fractional scaling, and so everything is blurry and upscaled to your screen, essentially rendered at a lower resolution. The only way to fix this is to set your compositor's display scale to 1x while you play games so that they are rendered at up to your native resolution.
 
-Some applications have bugs on Wayland, such as GIMP not setting the canvas scale properly (2560x1600 image on 2560x1600 display appearing bigger than the display itself on 100% scaling).
+Some applications have bugs on Wayland, such as GIMP not setting the canvas scale properly (2560x1600 image on 2560x1600 display appearing bigger than the display itself on 100% scaling). This is probably also caused by fractional scaling.
 
 My screen has a slight yellowish tint, and so I use xcalib on x11 to fix it and make white look like pure white. Xcalib is not supported on Wayland and there is no Wayland-native replacement of it.
 
-Despite all the kinds of configurations I did and xdg portals I installed, screen sharing and screen recording did not work on any of the compositors I tried.
+Despite all the kinds of configurations I did and XDG portals I installed, screen sharing and screen recording did not work on any of the compositors I tried.
 
 # Xfce-specific issues
 
@@ -73,14 +75,14 @@ Wayland has made significant progress over these last years, but it's not ready 
 * Better multi monitor support
 * Simpler configuration that is more centralized around the compositor
 * Ability to set mouse scrolling speed
-* Lower CPU usage in idle compared to xorg (theoretically)
+* Lower CPU usage in idle compared to xorg, giving room for lower battery usage as well (but this might not end up true because of fractional scaling overhead)
 
 ## Wayland cons
 * Unless if using KDE or Gnome, Wayland requires a lot of troubleshooting, fixing, experimentation and software replacement
-* Fractional scaling isn't perfect, fonts and sometimes images and video output are notably blurrier than on x11 desktops.
-* Xwayland is horrible when you use fractional scaling, making gaming absolutely not feasible
+* Fractional scaling isn't perfect, fonts and sometimes images and video output are notably blurrier than on x11 desktops. A fix for this is currently being worked on
+* Xwayland is horrible when you use fractional scaling, making gaming less convenient (requires setting fractional scaling to 1x)
 * Applications like GIMP still have annoying bugs
 * Lower availability of window managers and desktop environment software (panels, background software, etc). This is especially true for stacking window managers since all the hype is on tiling
-* No xcalib alternative that works on Wayland or at least a software tool that can adjust brightness and gamma of the RGB channels individually.
-* Experience varies significantly between compositors because of the fragmentation of features and implementations
+* No xcalib alternative that works on Wayland or at least a software tool that can adjust both brightness and gamma of the RGB channels individually.
+* Experience varies between compositors because of the fragmentation of features and implementations
 * Screensharing and screen recording are still really bad. It's a miracle if it even works and even then it relies on Pipewire
