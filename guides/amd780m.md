@@ -5,16 +5,11 @@ As of the time I'm writing this, the Linux driver for AMD GPUs has a bug which a
 This is a bug currently being worked on in the AMD drivers, see here: https://gitlab.freedesktop.org/drm/amd/-/issues/4141
 
 
-If you suffer from this issue and have an affected iGPU, there are 2 workarounds you can do to circumvent the problem:
+If you suffer from this issue and have an affected iGPU, there is 1 workaround you can do to circumvent the problem:
 
-## Workaround 1
+## Workaround
 
-Add the following option `amdgpu.dcdebugmask=0x10` or `amdgpu.dcdebugmask=0x12` to the kernel parameters. This fixes the freezes but can increase GPU power consumption as a drawback.
-
-## Workaround 2
-
-Add the following option `amdgpu.gpu_recovery=1` to the kernel parameters. This option does not fix the display freeze issue, but once it happens, the GPU will timeout and the graphics will restart. This is an alternative to the first workaround which shouldn't increase power consumption.
-
+Add the following option `amdgpu.dcdebugmask=0x10` or `amdgpu.dcdebugmask=0x12` to the kernel parameters. This fixes the freezes but can very slightly increase power consumption when graphics are idle.
 
 ## How to set kernel parameters (Grub)
 
@@ -26,4 +21,7 @@ This guide assumes you are using Grub as your bootloader. For other ways to conf
 * As root, run `update-grub`
 * Restart system
 
-Example: `GRUB_CMDLINE_LINUX_DEFAULT="modules=sd-mod,usb-storage,ext4,nvme,vmd quiet rootfstype=ext4 amdgpu.gpu_recovery=1 amdgpu.dcdebugmask=0x10"`
+Example: `GRUB_CMDLINE_LINUX_DEFAULT="quiet amdgpu.dcdebugmask=0x10"`
+
+
+Note: If you change `GRUB_CMDLINE_LINUX` instead of `GRUB_CMDLINE_LINUX_DEFAULT`, you might end up with an unbootable system. If you make this mistake, the solution is to boot a live ISO, chroot into your OS partition, fix the Grub configuration and update it again
