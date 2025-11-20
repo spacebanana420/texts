@@ -4,7 +4,7 @@ The Slenderman's Shadow series has 2 major versions, the games made in the FPS C
 
 ## Bypassing launcher error "attempt to call a nil value"
 
-If you downloaded the games from the official source the real game will be package inside a loosely-encrypted zip file called "game.enc", and the exposed executable is just a launcher that extracts the game's contents and runs them. This launcher does not work at all, and a fix for this is unknown, instead why not entirely bypass it?
+If you downloaded the games from the official source the real game will be packaged inside a loosely-encrypted zip file called "game.enc", and the exposed executable is just a launcher that extracts the game's contents and runs them. This launcher does not work at all, and a fix for this is unknown, instead why not entirely bypass it?
 
 [In the comments for the Unity v1.3 version](https://marcsteene.itch.io/slendermans-shadow/comments?after=0) there is a person which extracted the game files from the game.enc zip archive and uploaded them [here](https://mega.nz/file/UbAQmTbA#zsFG-YYoFEQ7ukQVYOFqUNk4eRCzFfHZgQLOpm-4hzw). Download the games here as they are extracted and will skip the launcher part entirely, bypassing the nil value error.
 
