@@ -17,4 +17,13 @@ Simple, language-agnostic and modular means of communicating with a subprocess.
 
 ### Pseudo-files
 Pseudo-files are incredible. These "files" are an extremely convenient way to interact with the operating system kernel and hardware on UNIX-like systems. From a user and program perspective, they look like real files you read from and write to, but in reality you are communicating with the kernel for all various kinds of instructions. These files are called pseudo-files exactly because they are not real and interacting with them does not result in disk usage or the latency and performance cost it would have caused. Their goal is to interact with the kernel and hardware to retrieve information or configure the hardware.
-There are all kinds of pseudo-files in these OSes. Some let you retrieve operating system, process and hardware information, others let you control your CPU and suspend your system, others let you control your laptop battery and brightness, and there are many others with different behavior. Manipulating these pseudo-files is not something you think on a daily basis even if you use Linux or a BSD, but for programming and scripting it's extremely convenient and useful to use them if you have the usecase for them. They are also language-agnostic, since from the program's perspective it seems as it's performing file operations rather than system calls. You can then use a language such as Java or Go without requiring C bindings, since you do not need to run system calls directly.
+
+Manipulating these pseudo-files is not something you think on a daily basis even if you use Linux or a BSD, but for programming and scripting it's extremely convenient and useful to use them if you have the usecase for them. These are some of the things you can do with UNIX-like pseudo-files:
+
+* Control and monitor CPU clock speeds
+* Monitor hardware and processes and RAM and swap usage
+* Suspend or hibernate your system
+* Adjust laptop screen brightness or (if supported) battery charge limits
+* And much more
+
+They are also language-agnostic, since from the program's perspective it seems as it's performing file operations rather than system calls. You can then use a language such as Java or Go without requiring C bindings, since you do not need to run system calls directly.
