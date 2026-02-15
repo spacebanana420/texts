@@ -5,9 +5,8 @@ Sometimes I feel like writing things. I post the things I write here, usually te
 * **(2025)** [Fixing AMD 780M/7XXM iGPU freezes on Linux](guides/amd780m.md)
 * **(2025)** [Sending and storing secret data and messages securely](guides/secrets.md)
 
-
 ## Gaming documents
-* **(2026)** [Rain World on Linux](gaming/rainworld.md)
+* **(2026)** [Rain World on Linux - mod fix and extras](gaming/rainworld.md)
 * **(2025)** [Playing Slenderman's Shadow (FPSC) games on Linux](gaming/smshadow.md)
 
 ## Programming documents

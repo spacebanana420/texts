@@ -1,4 +1,4 @@
-# Rain World on Linux
+# Rain World on Linux - mod fix and extras
 
 Rain world works near-flawlessly on WINE/Proton and so this guide will be very short. The only required fix is very short and easy to add. The section related to gamescope is optional and just a nice extra.
 
