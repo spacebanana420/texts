@@ -1,6 +1,6 @@
 # My programming workflow (as of early 2026)
 
-As mentioned in my [IDE vs code editor](codeworkflow.md) document, I am extremely in-favor of modular setups where each tool does its job. I like efficiency, minimalism and I like being able to do things my own way without being met with friction, but then at the same time I also like a nice plugin and theme repository.
+As mentioned in my [IDE vs code editor](codeeditors.md) document, I am extremely in-favor of modular setups where each tool does its job. I like efficiency, minimalism and I like being able to do things my own way without being met with friction, but then at the same time I also like a nice plugin and theme repository.
 
 ### TLDR
 I like to use mostly-vanilla Emacs with a file tree, but I navigate a lot of files directly from my desktop's file explorer (currently Thunar). If the file explorer is keyboard-friendly and fast, many times it's easier to manage files directly from it rather than using a code editor file tree. I like to use multiple terminal windows, and I'm not opposed to the idea of multiple code editor instances each with 1 file open.
