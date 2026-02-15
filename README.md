@@ -1,4 +1,4 @@
-Technical guides for setup, troubleshooting, etc, as well as general articles of similar topics.
+Sometimes I feel like writing things. I post the things I write here, usually technical guides or programming stuff.
 
 ## Guides
 * **(2025)** [Pipewire: fixing audio crackling/popping and latency](guides/pipewire.md)
