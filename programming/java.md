@@ -16,7 +16,7 @@ With my desire for making self-contained tools that solve usecases I have, I ori
 
 * Pre-Java 8 experience: Those who worked with Java versions before 8 have a bad opinion of Java because of how it once was, regardless of how much it has evolved since then.
 
-* Performance misconceptions: Many people consider Java to be slow because of Minecraft's performance issues, but these issues come from the game's programming itself and can be fixed with mods such as Sodium. In reality, Java is faster than C# in bytecode form which is very impressive. Native compilation alternatives exist such as GraalVM.
+* Performance misconceptions: Many people consider Java to be slow because of Minecraft's performance issues, but these issues come from the game's programming itself and can be fixed with mods such as Sodium. In reality, Java is impressively fast for a virtual machine, some benchmarks show it's faster than C#. Native compilation alternatives exist such as GraalVM.
 
 * Memory usage: This is a very valid claim, but it happens by design and comes with an important performance benefit, I will elaborate on this below.
 
