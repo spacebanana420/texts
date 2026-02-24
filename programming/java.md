@@ -1,6 +1,6 @@
 # Java is a great and misunderstood language
 
-Throughout the years I saw (and still see) many people on the internet criticise or even shit on Java for different kinds of reasons, so much that at first it even made feel a bit intimidated or concerned to learn java back in 2022. Ironically, Java is now my favourite language, the absolute #1 favourite of all languages I have ever tried. With my current Java experience and my extreme preference for it, I looked back at the complaints people have and the jokes and memes people make about Java and even talked with a few people that hated using Java and I came to interesting conclusions. 
+Throughout the years I saw (and still see) many people on the internet criticise or even shit on Java for different kinds of reasons, so much that at first it even made feel a bit intimidated or concerned to learn Java back in 2022. Ironically, Java is now my favourite language, the absolute #1 favourite of all languages I have ever tried. With my current Java experience and my extreme preference for it, I looked back at the complaints people have and the jokes and memes people make about Java and even talked with a few people that hated using Java and I came to interesting conclusions. 
 
 ### My Java experience differs from many people's
 
