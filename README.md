@@ -10,6 +10,7 @@ Sometimes I feel like writing things. I post the things I write here, usually te
 * **(2025)** [Playing Slenderman's Shadow (FPSC) games on Linux](gaming/smshadow.md)
 
 ## Programming documents
+* **(2026)** [Java is a great and misunderstood language](programming/java.md)
 * **(2026)** [IDE vs code editor: monolith vs modular](programming/codeeditors.md)
 * **(2026)** [My programming workflow (as of early 2026)](programming/codeworkflow.md)
 
