@@ -18,6 +18,10 @@ The people have to fight for a better future in their home country, to fight tog
 
 Governments then use TV media and social media to spread highly manipulated propaganda to drive the entire population into believing a certain opinion or cause. Channeling money here and there, the government blinds the people and they are distracted from the real problems we need to fix.
 
+### Trick the people into liking the system
+
+After the people are divided and hate each other based on the political beliefs and parties they vote for, now all that's left to do is to manipulate the population into believing the bad propositions they cannot vote for are actually good and the way that must be. Once again, spread through the media, this ideology is injected into people's beliefs and thoughts, and now they are in favour of something that is horrible and, just like they create an identity based on who they vote for, they will create an identity based on following the impositions of the system. As result, those who oppose these propositions are socially rejected not only by the system but by the people themselves!
+
 ### Democracy? No, aristocracy
 
 This implementation of democracy can barely be called democracy, I see it as more of an aristocracy, where voting and proposals do exist, but only the "elite group" (politicians) can participate in it.
