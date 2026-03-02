@@ -17,3 +17,6 @@ Sometimes I feel like writing things. I post the things I write here, usually te
 ## UNIX-centered docments
 * **(2026)** [UNIX Design Beauty: piping and pseudo-files](unix/unixapi.md)
 * **(2025)** [My experience with Wayland](unix/wayland2025.md)
+
+## Other texts/documents
+* **(2026)** [Slimbook Evo 8845HS Review](reviews/slimbookevo.md)
