@@ -19,4 +19,5 @@ Sometimes I feel like writing things. I post the things I write here, usually te
 * **(2025)** [My experience with Wayland](unix/wayland2025.md)
 
 ## Other texts/documents
+* **(2026)** [Democracy is an Intentional Failure](misc/democracy.md)
 * **(2026)** [Slimbook Evo 8845HS Review](misc/slimbookevo.md)
