@@ -40,6 +40,12 @@ The screen refresh rate of 120Hz is beautiful to both use it on general daily us
 
 The screen's contrast is decent, though close to average, but the colors are really good. The Evo's screen has a reported color gamut of 100% sRGB, making colors vivid, intense and more accurate. I felt that the screen had a slightly yellowish tint but I'm unsure if that was just me being used to screens with other tints, eventually the brian adapts due to how minor the difference is and you end up seeing pure white.
 
+### Keyboard
+
+The keyboard feels sturdy and there is no sight of a key or its shell to be close to being damaged, unlike on mainstream consumer-grade laptops. Sometimes, the plastic frame below the keys can interfere with key presses it seems, but it's a very minor annoyance.
+
+With certain key press combinations, very minor keyboard ghosting can happen. You will not notice this at all with gameplay that uses WASD/QUERTY for movement, which is great. I do notice a bit of ghosting while playing Touhou, but it only happens if I use 2 arrow keys while holding Z and shift at the same time, then I want to press X to bomb and it won't work. Very minor ghosting, not a problem to me at all.
+
 ### Power consumption
 
 Slimbook Evo's power consumption sits at around 6W to 9W in idle, depending on brightness, OS, software, etc. I tested it on Artix Linux with Xfce 4.20 and very few background services running. When you start using the hardware intensely, power consumption doesn't scale too much.
@@ -64,11 +70,11 @@ After nearly a year of usage, the battery still reports 100% health and, the mos
 
 ### Speakers, Microphone and Webcam
 
-The speakers are surprisingly good. Sound is crisp and decently accurate for laptop speakers. Low frequencies are lacking as you would expect, but overall sometimes I prefer to simply use the laptop's speakers over my own Sennheiser headphones.
+The speakers are surprisingly good and I really appreciate that. Sound is crisp and decently accurate for laptop speakers. Low frequencies are lacking as you would expect, but overall sometimes I prefer to simply use the laptop's speakers over my own Sennheiser headphones.
 
 The microphone is a bit muffled but not hard for people to understand what you are saying. It's usable, not the best.
 
-The webcam doesn't have an extraordinary webcam, it does its job, good for voice chat but not for livestreaming.
+Webcam quality isn't extraordinary, it does its job, good for voice chat but not for livestreaming.
 
 ### Intense lights
 
