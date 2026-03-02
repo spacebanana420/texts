@@ -14,7 +14,7 @@ Now, with the inability to vote for/against proposals, and with only the ability
 
 ### Divide and Conquer
 
-The people have to fight for a better future in their home country, to fight together against the higher-power system that hinders the system. Does this actually happen? Not at all, instead most people fight **against each other** because they adopted a tribalistic view of politics. They adopt political parties as tribes to either belong to or fight against, and they superficially make these political parties their identity. "You are either with me or against me". In the end, the population is distracted from the real problems, and they fight each other while the real villain is out there free of consequence.
+The people have to fight for a better future in their home country, to fight together against the higher-power system that hinders our lives. Does this actually happen? Not at all, instead most people fight **against each other** because they adopted a tribalistic view of politics. They adopt political parties as tribes to either belong to or fight against, and they superficially make these political parties their identity. "You are either with me or against me". In the end, the population is distracted from the real problems, and they fight each other while the real villain is out there free of consequence.
 
 Governments then use TV media and social media to spread highly manipulated propaganda to drive the entire population into believing a certain opinion or cause. Channeling money here and there, the government blinds the people and they are distracted from the real problems we need to fix.
 
