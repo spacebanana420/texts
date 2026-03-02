@@ -46,6 +46,8 @@ The keyboard feels sturdy and there is no sight of a key or its shell to be clos
 
 With certain key press combinations, very minor keyboard ghosting can happen. You will not notice this at all with gameplay that uses WASD/QUERTY for movement, which is great. I do notice a bit of ghosting while playing Touhou, but it only happens if I use 2 arrow keys while holding Z and shift at the same time, then I want to press X to bomb and it won't work. Very minor ghosting, not a problem to me at all.
 
+Input lag is very low on the keyboard, no problems playing games that require very low latency (such as Touhou or even rhythm games).
+
 ### Power consumption
 
 Slimbook Evo's power consumption sits at around 6W to 9W in idle, depending on brightness, OS, software, etc. I tested it on Artix Linux with Xfce 4.20 and very few background services running. When you start using the hardware intensely, power consumption doesn't scale too much.
