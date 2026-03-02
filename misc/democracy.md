@@ -8,7 +8,7 @@ I will not talk much about that age verification bill in particular because ever
 
 Democracy as we know is implemented in a way that is designed for bipartidal/tripartidal systems to control the population and law, not as how we the people desire but as they wish, and cooperate with each other. The people are tricked into believing they have a say in the country in any meaningful way by being allowed to vote for the people and parties that will rule the country. The presidents, political parties and prime ministers then propose laws and changes in which the people **cannot** vote for/against and only the politicians themselves can. In the end, no matter what party you pick, they end up deciding the future of the country for you, and they will pass laws and changes you will despise. You do not have a say in this.
 
-### Corruption, controlled oposition and cooperation
+### Corruption, controlled opposition and cooperation
 
 Now, with the inability to vote for/against proposals, and with only the ability to vote for political parties, these parties can now coordenate with each other to propose and vote for the same side and end goals. In the end, the people think they have a choice, but the end result is the same: a horrible proposition that passes and becomes the new norm for your country. 
 
