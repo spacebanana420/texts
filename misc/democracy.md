@@ -34,3 +34,12 @@ Political parties can still exist, and presidents and prime ministers can still 
 ### The only voting we can truly do
 
 With the shitty implementation of democracy we have, we can only ever truly vote in a meaningful way through our use of money and presence. Assuming a free market with private-owned companies, the company must answer to the customer first and foremost, purely dictated by law of supply and demand. If the product is shitty, if the people do not want it or if a better alternative exists out there, the company must adapt to cater to the needs of the customer. In computer terms, we can refuse to invest money into hardware from certain companies beacuse it breaks, uses too much power or is excessively expensive for what it is, and that could dictate the future of the market. This method, however, is starting to no longer work, as now big tech companies do not make profit off of the working-class customers, instead they profit off of other companies alongside all the speculation that comes along with it.
+
+
+## Conclusion
+
+The political system is designed to give us an illusion of power, importance and free choice, while profiting off of the violation of our well-being and lives. The people believe they have a say in the country by voting for political parties, not being aware that they are unable to vote for the actual propositions each party makes, and only the politicians themselves can. The politicians then, through favours, corruption or other means, all coordenate with each other to vote for the same path. No matter what party you vote for, you cannot vote for the actual measures you want to be implemented.
+
+If this wasn't enough, the system is also designed to divide us. We make a superficial identity of who we are based on the political parties we vote for and agree with, and we see the other side as the enemy that must be eliminated. We as people despise each other more than ever, and fight with each other in endless culture wars, all while our true enemy is left unaffected.
+
+This is extremely unlikely to change and it's very unlikely that we will be able to vote for propositions ourselves any time soon. In the end, we can only vote with our money, but even then that is starting to fade away.
