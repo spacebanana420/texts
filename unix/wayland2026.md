@@ -51,7 +51,7 @@ Hyprland is simultaneously modern and lightweight. I can have it be overloaded w
 
 ## Getting used to tiling
 
-I'm a hardcore floating window manager user, or so I used to be but now I'm adapting really well to how Hyprland does tiling. And if for some reason I need floating, Hyprland has got me covered. Yeah, if you want to run Hyprland 100% in floating mode then you will need a plugin for window title bars, but I avoided that hassle entirely by adapting to how tiling works.
+I'm a hardcore floating window manager user, or so I used to be but now I'm adapting really well to how Hyprland does tiling. And if for some reason I need floating, Hyprland has got me covered. Yeah, if you want to run Hyprland 100% in floating mode then you will need a plugin for window title bars, but I avoided that hassle entirely by adapting to how tiling works. I do miss minimizing windows though.
 
 ## Building my desktop environment
 
