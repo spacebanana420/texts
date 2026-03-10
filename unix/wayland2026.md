@@ -1,4 +1,4 @@
-# My experience with daily driving Wayland (2026)
+# Fixing My Pain Points with Wayland (2026)
 
 In late-2025 I made a post about my frustrating experience with setting up a Wayland environment with Hyprland, Labwc and Wayfire and trying to combine them with xfce tools.
 
