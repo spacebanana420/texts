@@ -75,4 +75,4 @@ The Wayland ecosystem has potential and it will eventually catch up with x11, bu
 Here's a screenshot of my current setup:
 
 
-<img src="../image/hyprland.png" width="600" />
+<img src="../image/hyprland-screenshot.png" width="600" />
