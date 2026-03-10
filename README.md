@@ -16,6 +16,7 @@ Sometimes I feel like writing things. I post the things I write here, usually te
 
 ## UNIX-centered docments
 * **(2026)** [UNIX Design Beauty: piping and pseudo-files](unix/unixapi.md)
+* **(2026)** [My experience with daily driving Wayland](unix/wayland2025.md)
 * **(2025)** [My experience with Wayland](unix/wayland2025.md)
 
 ## Other texts/documents
