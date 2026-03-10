@@ -60,6 +60,7 @@ Now with Hyprland configured, I need the rest of my software. I don't need much 
 * For hardware control and monitoring I use my own [Nitori](https://github.com/spacebanana420/nitori) program
 * For screenshots, I use my [Aya](https://github.com/spacebanana420/aya)
 * For clipboard, I use wl-copy
+* Hyprlock for a lockscreen
 * To have a panel, I currently use Waybar
 * I used to use xfce4-terminal but now I use Alacritty
 * I still use Thunar despite not being on Xfce now
