@@ -1,4 +1,4 @@
-Sometimes I feel like writing things. I post the things I write here, usually technical guides or programming stuff.
+Sometimes I feel like writing things and I post them here, usually technical guides or programming stuff, sometimes rants or non-technical stuff.
 
 ## Guides
 * **(2026)** [Rain World on Linux - mod fix and extras](guides/rainworld.md)
