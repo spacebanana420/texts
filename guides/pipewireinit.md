@@ -18,9 +18,9 @@ chmod +x run-pipewire
 mv run-pipewire /usr/local/bin #Requires root, installs script system-wide
 ```
 
-Now open it with your <editor> of choice:
+Now open it with your editor of choice (for example, vim):
 ```sh
-<editor> /usr/local/bin/run-pipewire
+vim /usr/local/bin/run-pipewire #Run as root
 ```
 
 and paste:
