@@ -12,17 +12,24 @@ The most convenient way to launch these programs is by executing them on desktop
 
 A convenient way to run all the 3 Pipewire components regardless of how you run it is to put it all inside a shell script:
 
-```
+```sh
 touch run-pipewire
 chmod +x run-pipewire
+mv run-pipewire /usr/local/bin #Requires root, installs script system-wide
 ```
 
-Now open it with your of choice and paste:
-
+Now open it with your <editor> of choice:
+```sh
+<editor> /usr/local/bin/run-pipewire
 ```
+
+and paste:
+```sh
 #!/bin/sh
 
 pipewire & pipewire-pulse & wireplumber &
 ```
+
+Now you can run the `run-pipewire` command from anywhere in your system.
 
 The `&` symbol allows the programs to run in parallel, while also ending the script instead of waiting for completion. You can now execute this script on launch on your graphical environment, though details are specific to the desktop you use.
