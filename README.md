@@ -1,4 +1,4 @@
-Sometimes I feel like writing things and I post them here, usually technical guides or programming stuff, sometimes rants or non-technical stuff.
+Sometimes I feel like writing things and I post them here, texts are separated by category. Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) are in PDF format.
 
 ## Guides
 * **(2026)** [Rain World on Linux - mod fix and extras](guides/rainworld.md)
@@ -10,17 +10,22 @@ Sometimes I feel like writing things and I post them here, usually technical gui
 * **(2025)** [Sending and storing secret data and messages securely](guides/secrets.md)
 * **(2025)** [Playing Slenderman's Shadow (FPSC) games on Linux](guides/smshadow.md)
 
-## Programming documents
+## Programming
 * **(2026)** [Java is a great and misunderstood language](programming/java.md)
 * **(2026)** [IDE vs code editor: monolith vs modular](programming/codeeditors.md)
 * **(2026)** [My programming workflow (as of early 2026)](programming/codeworkflow.md)
 
-## UNIX-centered docments
+## UNIX and Linux
 * **(2026)** [UNIX Design Beauty: piping and pseudo-files](unix/unixapi.md)
 * **(2026)** [Fixing My Pain Points with Wayland](unix/wayland2026.md)
 * **(2025)** [My experience with Wayland](unix/wayland2025.md)
 
-## Gardening texts
+## Digital Media
+* **(2023)** [x264 for professional video work](media/x264.pdf)
+* **(2023)** [Motion JPEG for video work](media/mjpeg.pdf)
+* **(2023)** [Lossless Video for Recording and Archiving](media/lossless.pdf)
+
+## Gardening
 * **(2026)** [From Broken to Tree](gardening/brokenbranch.md)
 
 ## Other texts/documents
