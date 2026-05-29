@@ -1,15 +1,5 @@
 Sometimes I feel like writing things and I post them here, texts are separated by category. Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) are in PDF format.
 
-## Guides
-* **(2026)** [Rain World on Linux - mod fix and extras](guides/rainworld.md)
-* **(2026)** [Running Pipewire without Systemd](guides/pipewireinit.md)
-* **(2026)** [Environment Variables on Linux](guides/envvar.md)
-* **(2026)** [Setting up User DBus manually](guides/dbus.md)
-* **(2025)** [Pipewire: fixing audio crackling/popping and latency](guides/pipewire.md)
-* **(2025)** [Fixing AMD 780M/7XXM iGPU freezes on Linux](guides/amd780m.md)
-* **(2025)** [Sending and storing secret data and messages securely](guides/secrets.md)
-* **(2025)** [Playing Slenderman's Shadow (FPSC) games on Linux](guides/smshadow.md)
-
 ## Programming
 * **(2026)** [Java is a great and misunderstood language](programming/java.md)
 * **(2026)** [IDE vs code editor: monolith vs modular](programming/codeeditors.md)
@@ -27,6 +17,16 @@ Sometimes I feel like writing things and I post them here, texts are separated b
 
 ## Gardening
 * **(2026)** [From Broken to Tree](gardening/brokenbranch.md)
+
+## Guides
+* **(2026)** [Rain World on Linux - mod fix and extras](guides/rainworld.md)
+* **(2026)** [Running Pipewire without Systemd](guides/pipewireinit.md)
+* **(2026)** [Environment Variables on Linux](guides/envvar.md)
+* **(2026)** [Setting up User DBus manually](guides/dbus.md)
+* **(2025)** [Pipewire: fixing audio crackling/popping and latency](guides/pipewire.md)
+* **(2025)** [Fixing AMD 780M/7XXM iGPU freezes on Linux](guides/amd780m.md)
+* **(2025)** [Sending and storing secret data and messages securely](guides/secrets.md)
+* **(2025)** [Playing Slenderman's Shadow (FPSC) games on Linux](guides/smshadow.md)
 
 ## Other texts/documents
 * **(2026)** [The Worst Flaws of the Education System](misc/education.md)
