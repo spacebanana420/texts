@@ -18,7 +18,7 @@ There are multiple encoding and decoding libraries/programs for the H.264 format
 
 ## Where did this confusion come from?
 
-Many times, the creator of the format also creates the software implementation, this is the case with VP9 for example. VP9 is a video encoding format, but the codec is also called vp9. Even in the official webpage [VP9 is called a codec](https://www.webmproject.org/vp9/), because it's correct, the name is used for both the format and the codec.
+Many times, the creator of the format also creates the software implementation, this is the case with VP9 for example. VP9 is a video encoding format, but the codec is also called vp9. Even in the official webpage [VP9 is called a codec](https://www.webmproject.org/vp9/) because it's correct, the name is used for both the format and the codec.
 
 This confusion is very common in image formats too, where the file format is also the compression format and the codec shares the same name. Other formats such as DNxHR also share the same name for the codec software.
 
