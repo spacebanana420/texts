@@ -1,4 +1,4 @@
-# Misunderstanding of The Term "codec"
+# Codec vs. Video Format: Why H.264 Is Not a Codec
 
 Have you ever heard someone call H.264 a "codec"? It happens very often, but it's not correct. People usually refer to H.264, H.265, VP9, etc as "codecs", and sometimes they are partially right, but that's not the case at all with H.264 and H.265.
 

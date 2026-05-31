@@ -11,7 +11,7 @@ Sometimes I feel like writing things and I post them here, texts are separated b
 * **(2025)** [My experience with Wayland](unix/wayland2025.md)
 
 ## Digital Media
-* **(2026)** [Misunderstanding of The Term "codec"](media/codec.md)
+* **(2026)** [Codec vs. Video Format: Why H.264 Is Not a Codec](media/codec.md)
 * **(2023)** [x264 for professional video work](media/x264.pdf)
 * **(2023)** [Motion JPEG for video work](media/mjpeg.pdf)
 * **(2023)** [Lossless Video for Recording and Archiving](media/lossless.pdf)
