@@ -1,11 +1,11 @@
 # Comparing Different Image Formats (PNG, JPG, AVIF, TIFF, WEBP, GIF, BMP)
 
-This text aims to differentiate the various popular image formats and their strengths and weaknesses. I will separate them between the type of compression they support (lossless/uncompressed and lossy).
+This text aims to differentiate the various popular image formats and their strengths and weaknesses. I will separate them between the type of compression they support (lossless/uncompressed and lossy) and then rank them and explain when each format is most appropriate to use.
 
 I will cover the following formats:
 * PNG
-* GIF
 * JPG
+* GIF
 * TIFF
 * BMP
 * WEBP
@@ -13,7 +13,7 @@ I will cover the following formats:
 
 ## Lossless formats
 
-Lossless compression is a compression format that does not result in loss of information or quality. It's not exempt from loss of data unrelated to compression, such as lowering sample rate or color subsampling.
+Lossless compression is a compression format that does not result in loss of information or quality. It's not exempt from loss of data unrelated to compression, such as lowering bit depth or color subsampling.
 
 Lossless compression is also present in video, audio and non-media formats such as archive formats like ZIP. This compression type is essential for data and quality preservation.
 
