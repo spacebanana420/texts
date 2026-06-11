@@ -11,6 +11,7 @@ Sometimes I feel like writing things and I post them here, texts are separated b
 * **(2025)** [My experience with Wayland](unix/wayland2025.md)
 
 ## Digital Media
+* **(2026)** [GIMP project bit depth: which to choose (8bit vs 16bit vs 32bit)](media/gimpdepth.md)
 * **(2026)** [Comparing Different Image Formats (PNG, JPG, AVIF, TIFF, WEBP, GIF, BMP)](media/image.md)
 * **(2026)** [Codec vs. Video Format: Why H.264 Is Not a Codec](media/codec.md)
 * **(2023)** [x264 for professional video work](media/x264.pdf)
