@@ -8,15 +8,13 @@ The bit depth is the number of bits that represent a raw pixel or each colour ch
 
 ## GIMP bit depth
 
-A GIMP project's bit depth is measured in bits/channel. By default 8bit is usually selected, though you can change it at any time. Non-destructive filters and editing will have their bit depth changed and so will all layers, but anything that is destructive that was made in 8bit won't suddenly gain quality (for example brush painting).
+A GIMP project's bit depth is measured in bits/channel. By default 8bit is usually selected, though you can change it at any time. Non-destructive filters and editing will have their bit depth changed and so will all layers, but anything that is destructive that was made in 8bit won't suddenly gain quality (for example brush painting) and so you have to remake those layers unless you set the bit depth from the start.
 
 ## What does it matter for?
 
 An image's bit depth defines the amount of colours it can have. An 8bit/channel image has 256 values for each channel, which results in nearly 17 million different possible colours. Sounds like a lot and it definitely is for a final image, but for production it's not enough because all kinds of edits and modifications can produce quantization errors.
 
-An 8bit/channel GIMP project is very likely to result in [colour banding](https://en.wikipedia.org/wiki/Colour_banding), which is a visual defect where the [steps of a gradient or colour transition are very noticeable](https://en.wikipedia.org/wiki/Colour_banding#/media/File:Colour_banding_example01.png). 8bit is also not enough for colour grading and general filtering that is more intense and pushes the image to its limits.
-
-The final exported image is rendered after everything is applied, and so 8bit is not an interference anymore as long as your project uses a high bit depth.
+An 8bit/channel GIMP project is very likely to result in [colour banding](https://en.wikipedia.org/wiki/Colour_banding), which is a visual defect where the [steps of a gradient or colour transition are very noticeable](https://en.wikipedia.org/wiki/Colour_banding#/media/File:Colour_banding_example01.png). 8bit might also not be not enough for very intense colour grading and filters.
 
 ## Which bit depth to use?
 
