@@ -2,12 +2,16 @@
 
 This guide serves to help you play and set up the Touhou Project games on Linux-based systems, having a focus on fixing quirks and issues as well as troubleshooting and improvements.
 
+You don't need to read everything here. Most likely you don't have most of these issues, and some issues (the fullscreen ones) are just "what if" scenarios that don't really or usually happen.
+The Touhou games run very well out-of-the-box, but they might need one or two adjustments to be perfect.
+
 The information seen here is specific to WINE, Proton and Linux, with a strong focus on Steam but also some mentions of Lutris and WINE forks.
 The guide focuses more on troubleshooting issues and improving your experience but not so much on how to install or patch the games.
 
 ## Table of Contents
 
 * [Fixing muffled SFX audio](#fixing-muffled-sfx-audio)
+* [Fixing thick, unreadable text](#fixing-thick-unreadable-text)
 * [Fixing fullscreen issues and stretched game image (fshack)](#fixing-fullscreen-issues-and-stretched-game-image-fshack)
 * [Fixing fullscreen issues (Proton and ProtonGE)](#fixing-fullscreen-issues-proton-and-protonge)
 * [Fixing fullscreen issues (Gamescope)](#fixing-fullscreen-issues-gamescope)
@@ -37,6 +41,30 @@ Use one of the following WINE/Proton variants:
 * lutris-wine (available on Lutris, old WINE versions)
 * WineGE (available on Lutris and binary available on GitHub)
 * ProtonGE (use it with Steam)
+
+
+## Fixing thick, unreadable text
+
+Touhou games after Touhou 14 can have a very thick text font that makes dialogues hard to read.
+This is caused by the antialiasing and subpixel rendering of your desktop.
+The method to fix this is very specific to each desktop environment or window manager, but the idea is to adjust font antialias settings and use grayscale subpixel rendering instead of RGB or similar.
+
+The most desktop-agnostic way to fix this would be to edit the file in `~/.config/fontconfig`.
+If editing this file, this parameter could help:
+
+```
+ <match target="font">
+  <edit name="rgba" mode="assign">
+   <const>none</const>
+  </edit>
+ </match>
+
+ <match target="font">
+  <edit name="hintstyle" mode="assign">
+   <const>hintslight</const>
+  </edit>
+ </match>
+```
 
 
 ## Fixing fullscreen issues and stretched game image (fshack)
