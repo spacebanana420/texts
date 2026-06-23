@@ -135,11 +135,14 @@ If you pirated a Touhou game and do not own the Steam version, but you want to u
 
 ## Fixing frameskip, microstutters or bad frametimes
 
-I noticed that Touhou games can have microstutters sometimes. This is severely improved by disabling FSYNC and ESYNC.
-These options are available on most game launchers and WINE helpers like Lutris. On Steam, you need to set the startup parameter `PROTON_NO_ESYNC=1`.
+I noticed that Touhou games can have microstutters sometimes that vary from barely there to significant.
+This is severely improved by using WINED3D instead of DXVK and optionally disabling FSYNC and ESYNC.
 
-Using WINED3D instead of DXVK might also help, though at cost in performance that is negligible unless you use 2000s or early 2010s integrated graphics.
+Using WINED3D instead of DXVK fixes most microstutters and bad frametimes, though at cost in performance that is negligible unless you use 2000s or early 2010s integrated graphics.
 On Steam, you can do that by setting the startup parameter `PROTON_USE_WINED3D=1 %command%`. You can combine both with `PROTON_NO_ESYNC=1 PROTON_USE_WINED3D=1 %command%`.
+
+You can disable fsync and esync for potentially better frame consistency too, though the improvement doesn't seem to be as big.
+On Steam, you need to set the startup parameter `PROTON_NO_ESYNC=1` to disable fsync and esync, or `PROTON_NO_FSYNC=1` to only disable fsync.
 
 Using a refresh rate that is not divisible by 60 (such as 75Hz) also introduces microstutters. 60Hz, 120Hz or above is recommended.
 
