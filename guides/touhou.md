@@ -8,10 +8,10 @@ The guide focuses more on troubleshooting issues and improving your experience b
 ## Table of Contents
 
 * [Fixing muffled SFX audio](#fixing-muffled-sfx-audio)
-* [Fixing fullscreen issues and stretched game image (fshack)](#fixing-fullscreen-issues-and-scretched-game-image-fshack)
+* [Fixing fullscreen issues and stretched game image (fshack)](#fixing-fullscreen-issues-and-stretched-game-image-fshack)
 * [Fixing fullscreen issues (Proton and ProtonGE)](#fixing-fullscreen-issues-proton-and-protonge)
 * [Fixing fullscreen issues (Gamescope)](#fixing-fullscreen-issues-gamescope)
-* [Fixing fullscreen issues (DXVK)](#fixing-fullscreen-issues-gamescope)i
+* [Fixing fullscreen issues (DXVK)](#fixing-fullscreen-issues-gamescope)
 * [Sharp upscaling (Gamescope)](#sharp-upscaling-gamescope)
 * [Using thcrap on Steam (thcrap-proton)](#using-thcrap-on-steam-thcrap-proton)
 * [Using Proton and ProtonGE without owning the games](#using-proton-and-protonge-without-owning-the-games)
