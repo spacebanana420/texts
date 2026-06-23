@@ -49,7 +49,7 @@ Touhou games after Touhou 14 can have a very thick text font that makes dialogue
 This is caused by the antialiasing and subpixel rendering of your desktop.
 The method to fix this is very specific to each desktop environment or window manager, but the idea is to adjust font antialias settings and use grayscale subpixel rendering instead of RGB or similar.
 
-The most desktop-agnostic way to fix this would be to edit the file in `~/.config/fontconfig`.
+The most desktop-agnostic way to fix this would be to edit the file in `~/.config/fontconfig/fonts.conf`.
 If editing this file, this parameter could help:
 
 ```
