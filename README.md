@@ -22,6 +22,7 @@ Sometimes I feel like writing things and I post them here, texts are separated b
 * **(2026)** [From Broken to Tree](gardening/brokenbranch.md)
 
 ## Guides
+* **(2026)** [Touhou on Linux: The Manual](guides/touhou.md)
 * **(2026)** [Rain World on Linux - mod fix and extras](guides/rainworld.md)
 * **(2026)** [Running Pipewire without Systemd](guides/pipewireinit.md)
 * **(2026)** [Environment Variables on Linux](guides/envvar.md)
