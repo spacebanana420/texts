@@ -13,7 +13,6 @@ The guide focuses more on troubleshooting issues and improving your experience b
 * [Fixing muffled SFX audio](#fixing-muffled-sfx-audio)
 * [Fixing thick, unreadable text](#fixing-thick-unreadable-text)
 * [Fixing fullscreen issues and stretched game image (fshack)](#fixing-fullscreen-issues-and-stretched-game-image-fshack)
-* [Fixing fullscreen issues (Proton and ProtonGE)](#fixing-fullscreen-issues-proton-and-protonge)
 * [Fixing fullscreen issues (Gamescope)](#fixing-fullscreen-issues-gamescope)
 * [Fixing fullscreen issues (DXVK)](#fixing-fullscreen-issues-gamescope)
 * [Sharp upscaling (Gamescope)](#sharp-upscaling-gamescope)
@@ -77,11 +76,6 @@ You need to switch to a WINE variant that supports or out-of-the-box contains fs
 ### TLDR
 
 Switch to WineGE, Proton or ProtonGE or enable fshack on Lutris/Bottles.
-
-
-## Fixing fullscreen issues (Proton and ProtonGE)
-
-If you have fullscreen issues on Steam, try disabling DXVK entirely by adding `PROTON_USE_WINED3D=1 %command%` to your game's startup parameters.
 
 
 ## Fixing fullscreen issues (Gamescope)
