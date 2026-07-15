@@ -89,6 +89,12 @@ There isn't "The Linux", or the one single source of Linux and everything on Lin
 The mentality of comparing an out-of-the-box or as-is experience of Windows with Linux simply does not work, because Windows is always Windows, while a Linux system or UNIX-like can vary differently or be specifically tailored to you.
 
 
+## Digital camera analogy
+
+This situation is similar to people buying a DSLR or mirrorless camera, expecting and wanting it to be like a mobile phone that takes pictures automatically and handles them, then complaining that they have to do manual exposure control and RAW post-processing.
+This is the same with people mishandling Linux systems and expecting them to be Windows-styled consumer-friendly "click one button and it's done".
+
+
 ## Conclusion
 
 Linux systems and other UNIX-like systems are extremely powerful operating systems that give you entire software freedom over your machine in incredible ways, but they are not like Windows and function in a fundamentally different way.
