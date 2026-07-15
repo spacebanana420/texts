@@ -70,14 +70,12 @@ Depending on your configuration, your Linux system can be more than enough light
 
 Free and open source software tends to be more cross-platform, many times even platform-agnostic.
 These programs are reliable tools that are meant to work regardless of your system and configuration (not all are like this of course).
-If your programs, tools, etc are open source, chances are they just work and blend in extremely well with any operating system.
 
 Proprietary software follows an entirely different mentality.
 Closed-source and corporate software is not meant to be a tool you use under your terms, but a service a company provides under their own terms.
-Proprietary software does not share the same mentality as open source and UNIX, and many proprietary programs tend to not be ported to Linux and other systems or badly ported.
-Beginners might see these issues and put the blame on the operating system, when the fault was from the start on the software they are using, which inhibits their choice of OS.
-Even if the proprietary program in question works well under Linux, it still cannot be tinkered, adjusted or modified, and so it causes extreme friction and might prevent you from setting up your system your way.
+Proprietary software does not share the same mentality as open source and UNIX.
 
+Beginners might see these issues and put the blame on the operating system, when the fault was from the start on the software they are using.
 If you do not use open source UNIX-friendly software, and instead transport your closed-source Windows-first software on other platforms, issues will arise.
 
 
