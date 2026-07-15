@@ -6,6 +6,7 @@ Sometimes I feel like writing things and I post them here, texts are separated b
 * **(2026)** [My programming workflow (as of early 2026)](programming/codeworkflow.md)
 
 ## UNIX and Linux
+* **(2026)** [Don't expect Linux to be like Windows](unix/linux-expectation.md)
 * **(2026)** [UNIX Design Beauty: piping and pseudo-files](unix/unixapi.md)
 * **(2026)** [Fixing My Pain Points with Wayland](unix/wayland2026.md)
 * **(2025)** [My experience with Wayland](unix/wayland2025.md)
