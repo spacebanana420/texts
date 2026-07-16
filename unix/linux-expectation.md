@@ -11,14 +11,13 @@ It does not have to be this way, it simply is because many people tried to get i
 ## People are being wrongly drawn to Linux
 
 The explosion of popularity of Linux has drawn many people into trying it out in hopes of escaping the grasp of Windows and MacOS and all the problems those systems bring with them.
-Many people end up becoming full-time Linux users and fall in love with their system, but some despise it.
+Many people end up becoming full-time Linux users and fall in love with their system, but some dislike it.
 
 Some people are drawn to Linux and UNIX thinking it will be exactly like Windows, but it isn't.
-They come to Linux expecting the system to do everything for them and cater to everyone automatically.
-They expect installation wizards and manually downloading EXE files (for most of the time), they expect out-of-the-box catering to the consumer, they expect proprietary software with issues to not have those issues.
+They come to Linux expecting the system to do everything for them automatically and cater to everyone as much as possible, in a consumer-friendly mass-produced style.
 
-The truth is that UNIX-like systems work differently, in a way that is overwhelmingly better for power users and "my way or the highway" computing, but these ideas are fundamentally different from the Windows/Mac/DOS territory.
-UNIX should stay as a power system for power users, with increasing accessibility of course, but it should not be marketed or promoted as for all kinds of people of all backgrounds.
+UNIX-like systems, including Linux systems, work overwhelmingly differently in a way that is better for power users, programmers, system administrators and "my way or the highway" computing, but not so appropriate for people that prefer the Windows/Mac/DOS territory for providing a "I don't need to care about the computer" experience.
+UNIX should stay as a power system for power users, with increasing accessibility of course, but it should not be marketed or promoted as a similar or seamless replacement to proprietary systems.
 
 
 ## Some people expect convenience
@@ -32,9 +31,9 @@ They expect the system to be magically the best of all time, all while automatic
 They end up complaining that "nothing works" because they expect the system to do everything for them, or because they tried to do something in a fundamentally incompatible way due to their Windows habits.
 
 
-## Not letting go of old habits
+## Old habits create wrong ideas
 
-Those that tend to complain the most about Linux when trying it out also tend to use it with outdated Windows mentality and habits. A few examples are:
+Many times, someone new to Linux might make use of their old Windows habbits. A few examples are:
 * Installation wizards instead of package management
 * EXE files instead of binaries, scripts, appimages
 * GUI interfaces for everything even if inefficient, as opposed to command-line and TUI
@@ -57,7 +56,7 @@ This of course doesn't happen and the Linux system they choose most likely is no
 
 ## Other claims also have a catch
 
-One of the most popular claims is that Linux uses less memory and CPU and is more responsive. This claim is entirely true, but how true it is depends on your setup.
+One of the most popular claims is that Linux uses less memory and CPU and is more responsive. How true this is depends on your setup and how you configure your system.
 Are you using Ubuntu with GNOME? Or Arch/Gentoo with Hyprland? Are you on Xfce instead? Or Cinnamon? Is your system lightweight by default, or bloated by default?
 Do you set up your system yourself?
 
@@ -83,6 +82,7 @@ If you do not use open source UNIX-friendly software, and instead transport your
 
 Windows and MacOS are always the same: they are Windows and Mac and you take it or leave it. UNIX systems do not work like this.
 Not only there are countless Linux and other UNIX-like operating systems that are different from each other, but all of them allow you to severely modify them.
+
 There isn't "The Linux", or the one single source of Linux and everything on Linux is that or nothing. There are countless setups out there.
 The mentality of comparing an out-of-the-box or as-is experience of Windows with Linux simply does not work, because Windows is always Windows, while a Linux system or UNIX-like can vary differently or be specifically tailored to you.
 
