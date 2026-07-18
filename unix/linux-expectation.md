@@ -1,10 +1,9 @@
 # Don't expect Linux to be like Windows
 
 Linux systems have increased significantly in popularity due to the technical advantages UNIX-like systems have over proprietary operating systems like Windows and MacOS.
-This increase in popularity also brought a lot of resentment, false information and dislike towards Linux and UNIX.
-This behaviour comes from some people that try out Linux who are unaware of the UNIX way of computing, have no desire to configure, study and master the system or just expect Linux to be like Windows and Mac.
+This increase in popularity brought a lot of new people, but for a specific reason also brought a lot of resentment.
+This comes from some people trying out Linux unaware of the differences between Linux and Windows, expecting Linux systems to be like Windows, and usually have no desire to configure, study and master the system.
 
-These online arguments and heated discussions undermine the technical power and freedom that UNIX philosophy and design provides.
 It does not have to be this way, it simply is because many people tried to get into Linux with the wrong ideas, desires and expectations.
 
 
@@ -17,21 +16,15 @@ Some people are drawn to Linux and UNIX thinking it will be exactly like Windows
 They come to Linux expecting the system to do everything for them automatically and cater to everyone as much as possible, in a consumer-friendly mass-produced style.
 
 UNIX-like systems, including Linux systems, work overwhelmingly differently in a way that is better for power users, programmers, system administrators and "my way or the highway" computing, but not so appropriate for people that prefer the Windows/Mac/DOS territory for providing a "I don't need to care about the computer" experience.
-UNIX should stay as a power system for power users, with increasing accessibility of course, but it should not be marketed or promoted as a similar or seamless replacement to proprietary systems.
+They are power systems, with increasing accessibility of course, but this power requires more effort from the user.
 
-
-## Some people expect convenience
-
-UNIX-like systems provide absolute freedom and power, but at the cost of less convenience for an end-user.
-Convenient systems like Windows require barely any computer knowledge to get it running and use your programs, at the cost of having no power yourself to control the machine, submitting to the choices of a company.
+Convenient systems like Windows require much less computer knowledge to get it running and use your programs, at the cost of having no power yourself to control the machine, submitting to the choices of a company and what the OS dictates.
 
 Some people come to Linux thinking it is both free and convenient, but you can never have those equally.
 You can have a mixture of freedom and convenience, but never the best of both worlds.
-They expect the system to be magically the best of all time, all while automatically catering to them, and end up frustrated when they find out they have to manually configure things or troubleshoot.
-They end up complaining that "nothing works" because they expect the system to do everything for them, or because they tried to do something in a fundamentally incompatible way due to their Windows habits.
 
 
-## Old habits create wrong ideas
+## Sometimes it's the old habits
 
 Many times, someone new to Linux might make use of their old Windows habbits. A few examples are:
 * Installation wizards instead of package management
@@ -46,12 +39,11 @@ Many times, someone new to Linux might make use of their old Windows habbits. A 
 ## Linux and UNIX are truly the best, with a catch
 
 People hear that "Linux and UNIX-like systems like FreeBSD are overwhelmingly better than proprietary systems like Windows and MacOS".
-This statement is completely true, but with a catch: it is only entirely true for the people who go their way and set up the system themselves to be tailored to them.
+This statement is true, but with a catch: it is only entirely true for the people who go their way and set up the system themselves to be tailored to them.
 
 When you assemble, configure, modify and compose the system your way, you are building the perfect operating system for you.
 In this case, it is for you the best system above all others, but this requires manual effort.
-Some beginners expect the system to cater to everyone, like Windows, and so if it's "better than Windows" then they expect it to automatically be better *for everyone universally with no effort put into it*.
-This of course doesn't happen and the Linux system they choose most likely is not catered to them out-of-the-box, but they do not go further and make it right for them themselves or try another system with different default configurations.
+Some beginners expect the system to cater to everyone, like Windows, and so if it's "better than Windows" then they expect it to automatically be better *for everyone universally by default*.
 
 
 ## Other claims also have a catch
@@ -96,7 +88,7 @@ This is the same with people mishandling Linux systems and expecting them to be 
 ## Conclusion
 
 Linux systems and other UNIX-like systems are extremely powerful operating systems that give you entire software freedom over your machine in incredible ways, but they are not like Windows and function in a fundamentally different way.
-For programmers, system administrators, cybersecurity experts, some kinds of engineers, tinkerers or just power users, these systems are perfect and satisfy deep needs of control, choice and efficiency.
+For programmers, system administrators, cybersecurity experts, some kinds of engineers, tinkerers or just power users and people who want to have deep control, these systems are perfect and satisfy deep needs of control, choice and efficiency.
 If you are neither of these or you just want to turn on the computer and have the system do everything for you, you are only met with resentment, expecting Linux systems to be universally consumer-ready without investing effort yourself.
 
-If you are ready and curious to invest time into learning, tinkering and perfecting the system then I strongly recommend giving Linux a try, otherwise it's best you stay on Windows or MacOS.
+If you are ready and curious to invest time into learning, tinkering and perfecting the system then I strongly recommend giving Linux a try.
