@@ -116,7 +116,7 @@ Netherlands and Denmark are considered to be some of the countries with the best
 The Netherlands ranks at the top for cycling and public transit, with people strongly admiring how great it is to live exactly because of the abundance of vast and efficient public transportation combined with widespread cycling and fewer cars and parking. 
 
 
-## USA as a bad example
+## USA
 
 The USA is known for having one of the worst urban planning ever: concrete jungles, congestion, noise and pollution, ugly cities, weak public transit, less cycling, miserable people, fewer people walking, fewer people enjoying their home.
 The common pattern is cars and their dominance ruining the rest. Since Americans are mostly unaware of how things could have been, they believe their reality has to be this way.
