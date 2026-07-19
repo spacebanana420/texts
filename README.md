@@ -34,5 +34,6 @@ Sometimes I feel like writing things and I post them here, texts are separated b
 * **(2025)** [Playing Slenderman's Shadow (FPSC) games on Linux](guides/smshadow.md)
 
 ## Other texts/documents
+* **(2026)** [Cars are The Bane of Urban Life](misc/carhell.md)
 * **(2026)** [The Worst Flaws of the Education System](misc/education.md)
 * **(2026)** [Slimbook Evo 8845HS Review](misc/slimbookevo.md)
