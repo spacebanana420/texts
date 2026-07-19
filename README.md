@@ -1,4 +1,11 @@
-Sometimes I feel like writing things and I post them here, texts are separated by category. Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) are in PDF format.
+# The Document Archive
+
+I store the texts I write here, separated by category.
+Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) are in PDF format.
+
+## Main Documents
+* **(2026)** [Cars are The Bane of Urban Life](misc/carhell.md)
+* **(2026)** [The Worst Flaws of the Education System](misc/education.md)
 
 ## Programming
 * **(2026)** [Java is a great and misunderstood language](programming/java.md)
@@ -19,9 +26,6 @@ Sometimes I feel like writing things and I post them here, texts are separated b
 * **(2023)** [Motion JPEG for video work](media/mjpeg.pdf)
 * **(2023)** [Lossless Video for Recording and Archiving](media/lossless.pdf)
 
-## Gardening
-* **(2026)** [From Broken to Tree](gardening/brokenbranch.md)
-
 ## Guides
 * **(2026)** [Touhou on Linux: The Manual](guides/touhou.md)
 * **(2026)** [Rain World on Linux - mod fix and extras](guides/rainworld.md)
@@ -34,6 +38,5 @@ Sometimes I feel like writing things and I post them here, texts are separated b
 * **(2025)** [Playing Slenderman's Shadow (FPSC) games on Linux](guides/smshadow.md)
 
 ## Other texts/documents
-* **(2026)** [Cars are The Bane of Urban Life](misc/carhell.md)
-* **(2026)** [The Worst Flaws of the Education System](misc/education.md)
+* **(2026)** [From Broken to Tree](gardening/brokenbranch.md)
 * **(2026)** [Slimbook Evo 8845HS Review](misc/slimbookevo.md)
