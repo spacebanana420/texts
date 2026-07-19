@@ -8,7 +8,7 @@ We do not have to live in car-focused concrete jungles.
 Life can be so much better in a way that makes you think "wow, living in the city is truly great, population density can be good after all".
 
 
-## Destruction of cities
+## Quick summary
 
 The problems of car-centric infrastructure are most intense in cities. Cars take away our space, our air, our silence and our safety.
 A city built for cars and not for people has most of its infrastructure and space dedicated to cars. This immediately causes multiple issues.
