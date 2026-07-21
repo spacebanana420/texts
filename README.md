@@ -8,6 +8,7 @@ Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) ar
 * **(2026)** [The Worst Flaws of the Education System](misc/education.md)
 
 ## Digital Media
+* **(2026)** [Supersampling: Perfect Anti-aliasing for Screenshots](media/supersampling.md)
 * **(2026)** [GIMP project bit depth: which to choose (8bit vs 16bit vs 32bit)](media/gimpdepth.md)
 * **(2026)** [Comparing Different Image Formats (PNG, JPG, AVIF, TIFF, WEBP, GIF, BMP)](media/image.md)
 * **(2026)** [Codec vs. Video Format: Why H.264 Is Not a Codec](media/codec.md)
