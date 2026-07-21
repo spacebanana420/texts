@@ -7,17 +7,6 @@ Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) ar
 * **(2026)** [Cars are The Bane of Urban Life](misc/carhell.md)
 * **(2026)** [The Worst Flaws of the Education System](misc/education.md)
 
-## Programming
-* **(2026)** [Java is a great and misunderstood language](programming/java.md)
-* **(2026)** [IDE vs code editor: monolith vs modular](programming/codeeditors.md)
-* **(2026)** [My programming workflow (as of early 2026)](programming/codeworkflow.md)
-
-## UNIX and Linux
-* **(2026)** [Don't expect Linux to be like Windows](unix/linux-expectation.md)
-* **(2026)** [UNIX Design Beauty: piping and pseudo-files](unix/unixapi.md)
-* **(2026)** [Fixing My Pain Points with Wayland](unix/wayland2026.md)
-* **(2025)** [My experience with Wayland](unix/wayland2025.md)
-
 ## Digital Media
 * **(2026)** [GIMP project bit depth: which to choose (8bit vs 16bit vs 32bit)](media/gimpdepth.md)
 * **(2026)** [Comparing Different Image Formats (PNG, JPG, AVIF, TIFF, WEBP, GIF, BMP)](media/image.md)
@@ -36,6 +25,17 @@ Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) ar
 * **(2025)** [Fixing AMD 780M/7XXM iGPU freezes on Linux](guides/amd780m.md)
 * **(2025)** [Sending and storing secret data and messages securely](guides/secrets.md)
 * **(2025)** [Playing Slenderman's Shadow (FPSC) games on Linux](guides/smshadow.md)
+
+## Programming
+* **(2026)** [Java is a great and misunderstood language](programming/java.md)
+* **(2026)** [IDE vs code editor: monolith vs modular](programming/codeeditors.md)
+* **(2026)** [My programming workflow (as of early 2026)](programming/codeworkflow.md)
+
+## UNIX and Linux
+* **(2026)** [Don't expect Linux to be like Windows](unix/linux-expectation.md)
+* **(2026)** [UNIX Design Beauty: piping and pseudo-files](unix/unixapi.md)
+* **(2026)** [Fixing My Pain Points with Wayland](unix/wayland2026.md)
+* **(2025)** [My experience with Wayland](unix/wayland2025.md)
 
 ## Other texts/documents
 * **(2026)** [From Broken to Tree](gardening/brokenbranch.md)
