@@ -15,13 +15,10 @@ Many people end up becoming full-time Linux users and fall in love with their sy
 Some people are drawn to Linux and UNIX thinking it will be exactly like Windows, but it isn't.
 They come to Linux expecting the system to do everything for them automatically and cater to everyone as much as possible, in a consumer-friendly mass-produced style.
 
-UNIX-like systems, including Linux systems, work overwhelmingly differently in a way that is better for power users, programmers, system administrators and "my way or the highway" computing, but not so appropriate for people that prefer the Windows/Mac/DOS territory for providing a "I don't need to care about the computer" experience.
+UNIX-like systems, including Linux systems, work overwhelmingly differently in a way that is better for power users, tinkerers, programmers, system administrators or people that want deep control, but not so appropriate for people that prefer the "I don't need to care about the computer" approach.
 They are power systems, with increasing accessibility of course, but this power requires more effort from the user.
 
-Convenient systems like Windows require much less computer knowledge to get it running and use your programs, at the cost of having no power yourself to control the machine, submitting to the choices of a company and what the OS dictates.
-
-Some people come to Linux thinking it is both free and convenient, but you can never have those equally.
-You can have a mixture of freedom and convenience, but never the best of both worlds.
+Convenient systems like Windows require much less computer knowledge or effort to get it running and use your programs, at the cost of having no power yourself to control the machine.
 
 
 ## Sometimes it's the old habits
@@ -36,53 +33,28 @@ Many times, someone new to Linux might make use of their old Windows habbits. A 
 * And more
 
 
-## Linux and UNIX are truly the best, with a catch
-
-People hear that "Linux and UNIX-like systems like FreeBSD are overwhelmingly better than proprietary systems like Windows and MacOS".
-This statement is true, but with a catch: it is only entirely true for the people who go their way and set up the system themselves to be tailored to them.
+## Linux and UNIX and DIY
 
 When you assemble, configure, modify and compose the system your way, you are building the perfect operating system for you.
-In this case, it is for you the best system above all others, but this requires manual effort.
+In this case, Linux and UNIX-like systems are for you the bests systems above all others, but this requires manual effort.
 Some beginners expect the system to cater to everyone, like Windows, and so if it's "better than Windows" then they expect it to automatically be better *for everyone universally by default*.
 
 
-## Other claims also have a catch
+## Performance
 
-One of the most popular claims is that Linux uses less memory and CPU and is more responsive. How true this is depends on your setup and how you configure your system.
-Are you using Ubuntu with GNOME? Or Arch/Gentoo with Hyprland? Are you on Xfce instead? Or Cinnamon? Is your system lightweight by default, or bloated by default?
-Do you set up your system yourself?
+One of the most popular reasons to switch to Linux is that Linux uses less memory and CPU and is more responsive. How much depends on your setup and how you configure your system.
+Are you using Ubuntu with GNOME? Or Arch/Gentoo with Hyprland? Are you on Xfce instead? Or Cinnamon? Is your system lightweight by default?
 
-A Linux system has the potential to be incredibly lightweight, depending on how it's configured. Mine uses 800MB of RAM on boot and the GUI and its programs are very responsive at very low CPU clock speeds (such as 400MHz to 800MHz).
-If instead you use Ubuntu with GNOME, it makes sense if on boot it uses more than 2GB of RAM and is slower.
-Depending on your configuration, your Linux system can be more than enough lightweight for a 2000s computer, or almost bloated for today's standards.
+You might have to set up the system yourself to be light, or install a distro that by default is light.
 
 
-## Proprietary software's fault but the blame goes to the system
-
-Free and open source software tends to be more cross-platform, many times even platform-agnostic.
-These programs are reliable tools that are meant to work regardless of your system and configuration (not all are like this of course).
-
-Proprietary software follows an entirely different mentality.
-Closed-source and corporate software is not meant to be a tool you use under your terms, but a service a company provides under their own terms.
-Proprietary software does not share the same mentality as open source and UNIX.
-
-Beginners might see these issues and put the blame on the operating system, when the fault was from the start on the software they are using.
-If you do not use open source UNIX-friendly software, and instead transport your closed-source Windows-first software on other platforms, issues will arise.
-
-
-## There isn't just one Linux or The One and Only Linux
+## There's many Linuxes
 
 Windows and MacOS are always the same: they are Windows and Mac and you take it or leave it. UNIX systems do not work like this.
 Not only there are countless Linux and other UNIX-like operating systems that are different from each other, but all of them allow you to severely modify them.
 
 There isn't "The Linux", or the one single source of Linux and everything on Linux is that or nothing. There are countless setups out there.
 The mentality of comparing an out-of-the-box or as-is experience of Windows with Linux simply does not work, because Windows is always Windows, while a Linux system or UNIX-like can vary differently or be specifically tailored to you.
-
-
-## Digital camera analogy
-
-This situation is similar to people buying a DSLR or mirrorless camera, expecting and wanting it to be like a mobile phone that takes pictures automatically and handles them, then complaining that they have to do manual exposure control and RAW post-processing.
-This is the same with people mishandling Linux systems and expecting them to be Windows-styled consumer-friendly "click one button and it's done".
 
 
 ## Conclusion
