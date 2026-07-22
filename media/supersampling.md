@@ -13,9 +13,16 @@ The result is a sharp image but with smooth anti-aliased edges.
 
 Some older games used to have this technique as a built-in anti-aliasing implementation called SSAA (supersampling anti-aliasing), but this method is very slow and heavy on memory and so it was replaced by lighter alternatives for gaming.
 For taking screenshots and rendering images it's the best you can do for a smooth screenshot, since gaming performance doesn't matter for taking screenshots.
-All you have to do is to take a screenshot at a higher resolution than your screen (if the game allows), then scale it down to 1/2, 1/3, 1/4, etc of the original size.
 
+
+## How to do it
+
+All you have to do is to take a screenshot at a higher resolution than your screen (if the game allows), then scale it down to 1/2, 1/3, 1/4, etc of the original size.
 It's important that you scale down in integers so the scaling is even and doesn't fail to remove all aliasing.
+
+You can scale down the image with any software that allows you to. This includes GIMP, Krita, Photoshop, Paint.NET, FFmpeg, ImageMagick and so many more.
+
+## Example
 
 Here's a visual example of how an image can change, where at the left the image has aliased edges, and at the right (after scaling) it doesn't:
 

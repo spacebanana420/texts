@@ -21,7 +21,7 @@ They are power systems, with increasing accessibility of course, but this power 
 Convenient systems like Windows require much less computer knowledge or effort to get it running and use your programs, at the cost of having no power yourself to control the machine.
 
 
-## Sometimes it's the old habits
+## Old habits
 
 Many times, someone new to Linux might make use of their old Windows habbits. A few examples are:
 * Installation wizards instead of package management
@@ -33,7 +33,7 @@ Many times, someone new to Linux might make use of their old Windows habbits. A 
 * And more
 
 
-## Linux and UNIX and DIY
+## UNIX and DIY
 
 When you assemble, configure, modify and compose the system your way, you are building the perfect operating system for you.
 In this case, Linux and UNIX-like systems are for you the bests systems above all others, but this requires manual effort.
@@ -61,6 +61,6 @@ The mentality of comparing an out-of-the-box or as-is experience of Windows with
 
 Linux systems and other UNIX-like systems are extremely powerful operating systems that give you entire software freedom over your machine in incredible ways, but they are not like Windows and function in a fundamentally different way.
 For programmers, system administrators, cybersecurity experts, some kinds of engineers, tinkerers or just power users and people who want to have deep control, these systems are perfect and satisfy deep needs of control, choice and efficiency.
-If you are neither of these or you just want to turn on the computer and have the system do everything for you, you are only met with resentment, expecting Linux systems to be universally consumer-ready without investing effort yourself.
 
-If you are ready and curious to invest time into learning, tinkering and perfecting the system then I strongly recommend giving Linux a try.
+If you are neither of these or you just want to turn on the computer and have the system do everything for you, you might not like them.
+But If you are ready and curious to invest some time into learning, tinkering and perfecting the system then I strongly recommend giving Linux a try.
