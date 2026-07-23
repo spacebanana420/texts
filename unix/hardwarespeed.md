@@ -28,6 +28,18 @@ Some are even faster if they are TUI like `lf` and `nnn`, and managing files fro
 Sometimes a certain task is more efficient when done from the terminal, then you can also leverage its performance benefits, but there's GUI software that is lightweight too.
 
 
+## Types of bloat
+
+Your software can be unnecessarily inefficient and consume too many resources in various ways:
+* Startup time is too slow
+* Individual tasks inside the software can take too long for what they do
+* Software feels slow and unresponsible in its interface or while using it
+* Software is too large (disk usage) for what it does
+* Software uses too much RAM for what it does
+* Software uses too much CPU in the background
+* Software does too much compared to what you actually want it to do
+
+
 ## Eco-friendly
 
 Once you unlock your hardware's potential with a system and software that are lightweight, you lose most of your necessity for upgrading your PC.
