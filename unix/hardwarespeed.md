@@ -28,6 +28,12 @@ Some are even faster if they are TUI like `lf` and `nnn`, and managing files fro
 Sometimes a certain task is more efficient when done from the terminal, then you can also leverage its performance benefits, but there's GUI software that is lightweight too.
 
 
+## Eco-friendly
+
+Once you unlock your hardware's potential with a system and software that are lightweight, you lose most of your necessity for upgrading your PC.
+You upgrade much less often, only when truly necessary, and you can get away with older or refurbished hardware.
+
+
 ## Conclusion
 
 Our hardware is very fast, and our perception that it's slow comes from slow software.
