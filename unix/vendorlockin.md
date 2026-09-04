@@ -6,21 +6,31 @@ Some software is more lightweight, efficient and minimalist and we can definitel
 Complexity in software can mean many things: resource usage, inefficient in its resource usage, inefficient in time and effort it takes to use, code complexity, etc.
 Many people are minimalists and avoid excessive complexity or bloatware, but something that has been on my mind that usually isn't talked about is how software complexity imprisons us, more specifically it promotes vendor lock-in.
 
+# Vendor lock-in
+
 Vendor lock-in means to be stuck with certain software and ecosystems, unable to replace them or escape them.
 It is very common in proprietary software, because closed-source software dictates how you use your computer and what platforms the software will run on, but it is not exclusive to this scenario.
 It can also manifest in open source software if the software itself is not flexible.
 
 Some examples of vendor lock-in are:
 * Proprietary software that is specific to an operating system (and proprietary software in general)
+  * Prevents freedom to choose your operating system, environment, etc.
 * Tools that only work under specific environments
+  * Same as above
 * Paid remote services (for example: GitHub Copilot and Claude)
-* Proprietary operating systems themselves and their software
+  * You don't have ownership or control over services being hosted somewhere else by a company, they tie you to their restrictions and products.
 * Corporate services like Azure, Databricks, SQLServer, BigQuery, etc
+  * Same as above
 * Software projects with built steps that are tied to specific IDEs
-* Complex software such as Xorg and Wayland and its compositors, web browsers and GTK and QT
-* Complex, bloated and invasive software such as systemd
+  * Requires a specific code editor rather than a compiler or build tool, which kills minimalism and portability, especially if it's a proprietary IDE.
+* Invasive software such as systemd
+  * Feature creep locks you into depending on the software in question for everything, instead of making your setup be a composition of multiple tools and be able to replace each component. 
+* Complex software such as Xorg and Wayland and its compositors, web browsers, GTK/QT and DBus/PipeWire
+  * Extreme complexity of implementation makes it unfeasible to quickly and efficiently make software for these environments or the environments themselves, resorting to specific ones made by few people instead.
 
-Notice the last examples I gave and how they mention complexity.
+# How vendor lock-in happens
+
+Notice the last example I gave and how it mentions complexity.
 In programming and engineering, complexity is often a negative trait that people perceive as virtue, when true virtue is in simplicity and efficiency.
 
 Software complexity worsens performance, portability, difficulty in scaling or adding features and difficulty in maintaining and troubleshooting code.
