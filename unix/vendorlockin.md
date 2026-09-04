@@ -40,6 +40,6 @@ Complex software is hard to work with: using its mechanisms for practical outcom
 
 With software complexity, suddenly what would be highly efficient and practical and would take a few lines of code to implement now takes years of effort into studying deep obscure arcane spells just to make something.
 This murder of practicality and efficiency results in fewer people working in certain tools like the ones I mentioned above, which results in vendor lock-in indirectly: all of us, even programmers, now depend on extremely specific people or organisations to make these huge monsters of bloat.
-Now we depend on them to make our browsers, our desktop environments and window managers, etc. We are now stuck to them and the ever-decreasing number of complex software.
+Now we depend on them to make our browsers, our desktop environments and window managers, etc.
 
-Our freedom of choice or freedom to do things ourselves dies, and we now have vendor lock-in.
+We are now stuck to them and a small scope of software we are stuck with. Our freedom of choice or freedom to do things ourselves dies, and we now have vendor lock-in.
