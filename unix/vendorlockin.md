@@ -42,4 +42,4 @@ With software complexity, suddenly what would be highly efficient and practical 
 This murder of practicality and efficiency results in fewer people working in certain tools like the ones I mentioned above, which results in vendor lock-in indirectly: all of us, even programmers, now depend on extremely specific people or organisations to make these huge monsters of bloat.
 Now we depend on them to make our browsers, our desktop environments and window managers, etc.
 
-We are now stuck to them and a small scope of software we are stuck with. Our freedom of choice or freedom to do things ourselves dies, and we now have vendor lock-in.
+We are now stuck to them and a small scope of software. Our freedom of choice or freedom to do things ourselves dies, and we now have vendor lock-in.
