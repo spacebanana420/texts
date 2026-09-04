@@ -1,13 +1,13 @@
 # How Complexity is Related to Vendor Lock-in
 
-Software complexity has raised and will continue to raise in our daily lives.
+Software complexity has risen and will continue to raise in our daily lives.
 Some software is more lightweight, efficient and minimalist and we can definitely choose which to use even at the operating system level, but even in open source grounds complexity is rising.
 
 Complexity in software can mean many things: resource usage, inefficient in its resource usage, inefficient in time and effort it takes to use, code complexity, etc.
 Many people are minimalists and avoid excessive complexity or bloatware, but something that has been on my mind that usually isn't talked about is how software complexity imprisons us, more specifically it promotes vendor lock-in.
 
 Vendor lock-in means to be stuck with certain software and ecosystems, unable to replace them or escape them.
-Vendor lock-in is very common in proprietary software, because closed-source software dictates how you use your computer and what platforms the software will run on.
+It is very common in proprietary software, because closed-source software dictates how you use your computer and what platforms the software will run on, but it is not exclusive to this scenario.
 It can also manifest in open source software if the software itself is not flexible.
 
 Some examples of vendor lock-in are:
@@ -40,6 +40,6 @@ Complex software is hard to work with: using its mechanisms for practical outcom
 
 With software complexity, suddenly what would be highly efficient and practical and would take a few lines of code to implement now takes years of effort into studying deep obscure arcane spells just to make something.
 This murder of practicality and efficiency results in fewer people working in certain tools like the ones I mentioned above, which results in vendor lock-in indirectly: all of us, even programmers, now depend on extremely specific people or organisations to make these huge monsters of bloat.
-Now we depend on them to make our browsers, our desktop environments and window managers, etc.
 
-We are now stuck to them and a small scope of software. Our freedom of choice or freedom to do things ourselves dies, and we now have vendor lock-in.
+Now we depend on them to make our browsers, our desktop environments and window managers, our libraries and tools, and our freedom to do things ourselves dies as the simplicity to do things ourselves disappears and the offer of software to choose shrinks.
+Now have vendor lock-in, regardless if it's indirect or direct, intentional or accidental.
