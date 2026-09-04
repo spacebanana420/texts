@@ -6,7 +6,7 @@ Some software is more lightweight, efficient and minimalist and we can definitel
 Complexity in software can mean many things: resource usage, inefficient in its resource usage, inefficient in time and effort it takes to use, code complexity, etc.
 Many people are minimalists and avoid excessive complexity or bloatware, but something that has been on my mind that usually isn't talked about is how software complexity imprisons us, more specifically it promotes vendor lock-in.
 
-# Vendor lock-in
+## Vendor lock-in
 
 Vendor lock-in means to be stuck with certain software and ecosystems, unable to replace them or escape them.
 It is very common in proprietary software, because closed-source software dictates how you use your computer and what platforms the software will run on, but it is not exclusive to this scenario.
@@ -28,7 +28,7 @@ Some examples of vendor lock-in are:
 * Complex software such as Xorg and Wayland and its compositors, web browsers, GTK/QT and DBus/PipeWire
   * Extreme complexity of implementation makes it unfeasible to quickly and efficiently make software for these environments or the environments themselves, resorting to specific ones made by few people instead.
 
-# How vendor lock-in happens
+## How vendor lock-in happens
 
 Notice the last example I gave and how it mentions complexity.
 In programming and engineering, complexity is often a negative trait that people perceive as virtue, when true virtue is in simplicity and efficiency.
