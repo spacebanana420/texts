@@ -1,4 +1,4 @@
-# How Complexity is Related to Vendor Lock-in
+# How Complexity Causes Vendor Lock-in
 
 Software complexity has risen and will continue to raise in our daily lives.
 Some software is more lightweight, efficient and minimalist and we can definitely choose which to use even at the operating system level, but even in open source grounds complexity is rising.
