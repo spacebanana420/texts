@@ -110,16 +110,23 @@ Anyone who has ever compared a dystopian city full of cars to a green and well-d
 The immediate reaction for the former is "I would never want to live here" and for the latter "I would love living here".
 
 
-## Netherlands and Denmark
+## Europe
 
 Netherlands and Denmark are considered to be some of the countries with the best livable spaces and city planning in the world.
-The Netherlands ranks at the top for cycling and public transit, with people strongly admiring how great it is to live exactly because of the abundance of vast and efficient public transportation combined with widespread cycling and fewer cars and parking. 
+The Netherlands ranks at the top for cycling and public transit, with people strongly admiring how great it is to live exactly because of the abundance of vast and efficient public transportation combined with widespread cycling and fewer cars and parking.
+Denmark has a similar culture, with cycling being rampant especially in Copenhagen. Public transit is great as well.
+Switzerland is known for having "the best public infrastructure in the world", with 1 system that connects the various transport methods, from train to metro to bus to tram.
+
+Southern Europe is not as known for its rail qualities nearly as much, and car dependency is notably higher.
 
 
 ## USA
 
-The USA is known for having one of the worst urban planning ever: concrete jungles, congestion, noise and pollution, ugly cities, weak public transit, less cycling, miserable people, fewer people walking, fewer people enjoying their home.
-The common pattern is cars and their dominance ruining the rest. Since Americans are mostly unaware of how things could have been, they believe their reality has to be this way.
+The USA is known for having one of the worst urban planning ever: concrete jungles, congestion, noise and pollution, weak public transit, less cycling, fewer people walking, etc.
+
+USA was built with a strong financial influence or the automobile lobby.
+The country was built for cars, not people, it was designed so that car use is mandatory for nearly everything, and everything being spread out does not help at all.
+Regardless, today Americans could have had a train network that connects the various cities and states, they are more than capable financially as a country, but all that money is going to places it shouldn't be instead.
 
 
 ## Public transit snowball effect
@@ -128,6 +135,25 @@ Rail transit tends to be excellent or at the very least decent even in car-domin
 Many bus lanes and some tram lanes might not have this benefit, and they might share their lane with the cars.
 Becoming affected by cars, they become slow and unpredictable in their arrival on a station.
 A snowball effect begins where the more cars there are, the worse public transportation without dedicated lanes becomes, and so fewer people rely on it and we have even more cars out there.
+
+
+## Train-friendly city layout
+
+The best city layout for train networks is in compact patches of cities, similar to how it is like in Netherlands.
+Cities that are spread out but compact facilitate 2 things:
+* Compact cities enable cycling, as now it is easy and fast to cycle from one corner to another.
+* Compact cities let 1 or 2 train stations cover the entire population of that city. You need less number and fragmentation of railways, which results in fewer costs, more population coverage and higher frequencies.
+
+If instead everything is spread out, even the accesses and points of interest of the cities and towns themselves, cycling becomes less common and train networks are much less efficient, requiring more railways to cover everyone.
+
+
+## Trains are prosperity
+
+The presence of a vast and dense train network in a country is a good sign of prosperity for that country.
+Nations that grew economically and culturally but invested their wealth into the life of the people and the cities have also grown in train networks.
+
+Countries that lack this wealth or put it where it shouldn't be (war, corruption, etc) are countries that cannot or do not want to improve the life for its people.
+As result, general quality of life and work there will be much worse, and train networks will be weak if even present at all.
 
 
 ## Honorable mention
