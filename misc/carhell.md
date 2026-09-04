@@ -124,7 +124,9 @@ Southern Europe is not as known for its rail qualities nearly as much, and car d
 
 The USA is known for having one of the worst urban planning ever: concrete jungles, congestion, noise and pollution, weak public transit, less cycling, fewer people walking, etc.
 
-USA was built with a strong financial influence or the automobile lobby.
+USA was built with a strong financial influence for the automobile lobby.
+While the country originally grew with an extremely strong affinity to cycling, car companies quickly made sure that would be over soon.
+
 The country was built for cars, not people, it was designed so that car use is mandatory for nearly everything, and everything being spread out does not help at all.
 Regardless, today Americans could have had a train network that connects the various cities and states, they are more than capable financially as a country, but all that money is going to places it shouldn't be instead.
 
