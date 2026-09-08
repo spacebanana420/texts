@@ -29,6 +29,9 @@ If your Touhou game fails to launch without any errors regardless of your hardwa
 
 Install 32bit wine and its dependencies on your system and see if your game works after.
 
+### On Lutris
+If this problem occurs on Lutris, try disabling "WINE D3D extras". If that's not enough, try disabling fsync, esync and DXVK.
+
 ## Fixing muffled SFX audio
 
 It's likely that on your setup, the audio for sound effects in most Touhou games is muffled and sometimes distorted.
