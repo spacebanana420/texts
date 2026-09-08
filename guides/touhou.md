@@ -10,6 +10,7 @@ The guide focuses more on troubleshooting issues and improving your experience b
 
 ## Table of Contents
 
+* [Game fails to launch](#game-fails-to-launch)
 * [Fixing muffled SFX audio](#fixing-muffled-sfx-audio)
 * [Fixing thick, unreadable text](#fixing-thick-unreadable-text)
 * [Fixing fullscreen issues and stretched game image (fshack)](#fixing-fullscreen-issues-and-stretched-game-image-fshack)
@@ -23,6 +24,10 @@ The guide focuses more on troubleshooting issues and improving your experience b
 * [Input lag on x11](#input-lag-on-x11)
 * [Input lag on Wayland](#input-lag-on-wayland)
 
+## Game fails to launch
+If your Touhou game fails to launch without any errors regardless of your hardware, drivers, WINE/DXVK/esync/fsync configuration, then you likly lack the 32bit WINE packages.
+
+Install 32bit wine and its dependencies on your system and see if your game works after.
 
 ## Fixing muffled SFX audio
 
