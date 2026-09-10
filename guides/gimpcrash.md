@@ -1,7 +1,7 @@
 # Fixing GIMP crashes on Wayfire
 
 GIMP's Wayland support is still a bit unreliable, and it might crash occasionally compared to when you run it on KDE or GNOME.
-It seems that Wayfire is a special culprit and GIMP crashes extremely often and easily here.
+It seems that on Wayfire GIMP crashes often/easily.
 
 ## Common error
 
