@@ -22,7 +22,6 @@ Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) ar
 * **(2026)** [Running Pipewire without Systemd](guides/pipewireinit.md)
 * **(2026)** [Environment Variables on Linux](guides/envvar.md)
 * **(2026)** [Setting up User DBus manually](guides/dbus.md)
-* **(2026)** [Fixing GIMP crashes on Wayfire](guides/gimpcrash.md)
 * **(2025)** [Pipewire: fixing audio crackling/popping and latency](guides/pipewire.md)
 * **(2025)** [Fixing AMD 780M/7XXM iGPU freezes on Linux](guides/amd780m.md)
 * **(2025)** [Sending and storing secret data and messages securely](guides/secrets.md)
