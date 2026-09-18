@@ -157,6 +157,16 @@ Nations that grew economically and culturally but invested their wealth into the
 Countries that lack this wealth or put it where it shouldn't be (war, corruption, etc) are countries that cannot or do not want to improve the life for its people.
 As result, general quality of life and work there will be much worse, and train networks will be weak if even present at all.
 
+## Why more lanes and parking don't fix the problem
+
+Adding more lanes (and parking) to streets and highways does not fix congestion, costs, space use, walkability in cities and pollution.
+It stays the same at best and at worst it worsens.
+
+At first it might seem that another lane improves congestion, but it does not.
+Not only more space is being taken from cities and people for building more lanes, but the number of cars stays the same, they are just more spread out.
+Many times the number of cars even increases, as taking space from cities and transit takes away the opportunity for people to walk, cycle and can sometimes hinder public transit networks, resulting in more people driving.
+
+The same applies to parking.
 
 ## Honorable mention
 
