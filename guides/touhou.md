@@ -20,6 +20,7 @@ The guide focuses more on troubleshooting issues and improving your experience b
 * [Using thcrap on Steam (thcrap-proton)](#using-thcrap-on-steam-thcrap-proton)
 * [Using Proton and ProtonGE without owning the games](#using-proton-and-protonge-without-owning-the-games)
 * [Fixing frameskip, microstutters or bad frametimes](#fixing-frameskip-microstutters-or-bad-frametimes)
+* [Games don't launch in Lutris](#games-dont-launch-in-lutris)
 * [Fixing input lag (Touhou 6, 7 and 8)](#fixing-input-lag-touhou-6-7-and-8)
 * [Input lag on x11](#input-lag-on-x11)
 * [Input lag on Wayland](#input-lag-on-wayland)
@@ -147,6 +148,15 @@ You can disable fsync and esync for potentially better frame consistency too, th
 On Steam, you need to set the startup parameter `PROTON_NO_ESYNC=1` to disable fsync and esync, or `PROTON_NO_FSYNC=1` to only disable fsync.
 
 Using a refresh rate that is not divisible by 60 (such as 75Hz) also introduces microstutters. 60Hz, 120Hz or above is recommended.
+
+
+## Games don't launch in Lutris
+
+Lutris comes with many options that are unnecessary and sometimes even bring issues for running the games.
+Make sure you disable these:
+* Anything related to anti cheat
+* Wine D3D Extras
+* Most patches except for fsync, esync and DXVK
 
 
 ## Fixing input lag (Touhou 6, 7 and 8)
