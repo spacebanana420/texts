@@ -24,4 +24,6 @@ For example, you need user DBus but use Hyprland, you need to launch Hyprland wi
 dbus-run-session start-hyprland
 ```
 
+Same idea goes with Wayfire, Labwc, etc.
+
 To seamlessly integrate this on your display manager, you have to modify the respective command that a session (such as the Hyprland session starts). These session files are located in `/usr/share/wayland-sessions/` and `/usr/share/wayland-sessions/xsessions`.

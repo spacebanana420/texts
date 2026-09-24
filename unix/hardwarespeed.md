@@ -1,4 +1,4 @@
-# Your Hardware is Very fast
+# Your Hardware is Very Fast
 
 Computers are incredibly fast, but many people upgrade their PC hardware because it starts feeling slow over the years, but is it really slow? Absolutely not.
 Our computers are overwhelmingly fast but their speed is hindered by slow, inefficient and bloated software.

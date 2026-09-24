@@ -30,7 +30,7 @@ Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) ar
 ## UNIX and Linux
 * **(2026)** [The Advantages of CLI over GUI](unix/cli.md)
 * **(2026)** [How Complexity Causes Vendor Lock-in](unix/vendorlockin.md)
-* **(2026)** [Your Hardware is Very fast](unix/hardwarespeed.md)
+* **(2026)** [Your Hardware is Very Fast](unix/hardwarespeed.md)
 * **(2026)** [Don't expect Linux to be like Windows](unix/linux-expectation.md)
 * **(2026)** [UNIX Design Beauty: piping and pseudo-files](unix/unixapi.md)
 
