@@ -20,7 +20,7 @@ The best and most relevant theory is the one that is put into practice. Without 
 
 Tests in particular tend to be extremely inaccurate at evaluating the mastery of a student in a certain field. Due to their superficial evaluation (memorizing prioritized over understanding, check box questions, etc), tests have an incredibly devastating margin of error for evaluation. Memorization is rewarded, while in-depth understanding is punished. Those who superficially memorize the procedures, tricks and concepts "milk" their grade, while those with in-depth understanding of the field often have no way to prove their mastery and knowledge in a test that relies on the student remembering names, words and formulas.
 
-## Cheating is a symptom, not the cause
+## Cheating is a symptom and not the cause
 
 Students cheat not because they are inherently evil and treacherous but because they grow up in a highly stressful environment where their future is dictated by grades of superficial written tests in the worst ways possible. This pressure to do well and be happy in life conducts students into following whatever is the easiest and fastest path to the highest grade possible.
 
@@ -42,7 +42,7 @@ Projects cannot be cheated and are (usually) not superficially evaluated. You ca
 
 Written works are a less practical alternative to projects for subjects or evaluations that cannot be put into practice nearly as much, kind of like a mini thesis. This form of evaluation is also commonly seen in university and the student, just like with projects, has to understand the field in-depth to then conceive a written work.
 
-## Time anxiety and blanking out in tests
+## Time pressure and blanking out in tests
 
 Students often say how they blanked out in a test. This is a very common feeling among students, but they don't associate it to a bad root cause and assume it's a natural school experience, but it is not natural at all, it is a symptom of great stress and pressure injected in a way that should never happen!
 
@@ -88,7 +88,7 @@ This problem will not be fixed any time soon for another reason: the job is simp
 
 In school and college you are unable to make a DIY course hand-tailored to you. You cannot pick the subjects you want and are most relevant to you. You have to resort to the generic pre-made courses that come with anything and everything you hate and are uninterested about, leading to significantly higher frustration and lack of motivation. You can't even pick groups of subjects, which would have been a more realistic and pragmatic implementation of this idea.
 
-## Credentialism and anti-merit, the rotten business
+## Credentialism and the business that kills merit
 
 There's all kinds of learning methods and paths: theory or projects, school or self-taught, academic or professional experience, etc. We have all kinds of ways to learn and practice, and some people fit certain ways than others. Speaking for myself, my best learning path is purely and entirely self-taught, nothing else even approaches the efficiency, quality and skill of learning by myself for me.
 
@@ -100,7 +100,7 @@ Of course that this is not enough to satisfy the greed of the institutions, so w
 
 So many credentials everywhere and yet people are less skilled than ever. It's more than obvious by now that the possession of a diploma has little impact on a person's competence in a field, except for a few traditional courses such as medicine (even then it doesn't tell the whole picture). How many times do we see co-workers and employers note how the highschool dropout has been a much better programmer than most computer science graduates? In the end, college is a business and credentialism is a business strategy. Ask yourself, when colleges didn't exist, were people incapable of doing anything? Of course not, most countries in the world were founded and built by people without any resemblance of college education. 
 
-## The death of in-job training
+## The lack of in-job training
 
 With credentialism going rampant to fuel the business of institutions, merit is now killed. This affects the merit of those with professional experience, but especially those without any professional history who are starting out. In certain fields, mastery cannot be practiced at home with personal projects or written works but it could definitely and very easily be trained on-the-job. We used to have many cases like these, even involving complex machinery. But with an ever-increasing population of job candidates and credentialism, the idea of merely being trained on-the-job without requiring a piece of academic paper is fading away.
 
