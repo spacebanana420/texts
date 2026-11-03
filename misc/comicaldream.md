@@ -26,4 +26,4 @@ Gone unnoticed from the outside, the line between life and death becomes blurry.
 This is The Eternal Comical Dream.
 
 
-*Inspired by [Mrs' Pumpkin's Comical Dream](https://www.youtube.com/watch?v=kSCnsTGuroM)*
+*Inspired by [Mrs. Pumpkin's Comical Dream](https://www.youtube.com/watch?v=kSCnsTGuroM)*

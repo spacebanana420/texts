@@ -1,4 +1,4 @@
-# Cars are The Bane of Urban Life
+# The Problems Cars Bring to our Life
 
 Cars have dominated modern life for decades in most places in the world, but at huge costs.
 Their prevalence in many cities has become disastrous, but it does not have to be this way.
