@@ -7,14 +7,14 @@ The dead rise and monsters thrive.
 Pumpkins and scarecrows smile.
 A place where the night never ends.
 
-A world of fantasy and imagination, a vision embodied as a reality on its own, where our deepest of desires lie, a place we call home.
+A world of fantasy and imagination where our deepest of desires lie, a place we call home.
 A dream world in which we do not wake up from, but we do not want to either.
 
 A world that exists in parallel to reality, but people from reality cannot enter your world.
 They have theirs and you have yours, neither meets the other.
 
-With solitude, the only resemblance of company you have if your own voices and thoughts, but it's comforting.
-All the problems go away, you owe no one nothing.
+With solitude, the only resemblance of company you have is your own voices and thoughts, but it's comforting.
+All the problems go away, you owe no one anything.
 Time freezes and nothing around you matters, you can enjoy the blissful peace of your world.
 
 In the end, it is only a resemblance of what you want to achieve in reality but never can.
@@ -22,7 +22,7 @@ The desire that cannot be reached, that goes beyond what is possible.
 The fantasy that goes beyond reality and normality.
 
 Forever dancing in your world, never leaving it, but wishing for company.
-Gone unnoticed from the outside, the line between life and death becomes blurry.
+The line between life and death becomes blurry.
 This is The Eternal Comical Dream.
 
 
