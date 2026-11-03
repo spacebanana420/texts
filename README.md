@@ -4,6 +4,7 @@ I store the texts I write here, separated by category.
 Nowadays I write everything in markdown, but old documents (2022, 2023, 2024) are in PDF format.
 
 ## Main Documents
+* **(2026)** [The Eternal Comical Dream](misc/comicaldream.md)
 * **(2026)** [Cars are The Bane of Urban Life](misc/carhell.md)
 * **(2026)** [The Worst Flaws of the Education System](misc/education.md)
 * **(2026)** [What Makes Life Ever-increasingly Costly](misc/costlylife.md)
