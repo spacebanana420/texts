@@ -1,4 +1,4 @@
-# Don't expect Linux to be like Windows
+# Linux doesn't do things the Windows way
 
 Linux systems have increased significantly in popularity due to the technical advantages UNIX-like systems have over proprietary operating systems like Windows and MacOS.
 This increase in popularity brought a lot of new people, but for a specific reason also brought a lot of resentment.
